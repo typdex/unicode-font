@@ -1,0 +1,78 @@
+{
+  "unicode_version": "18.0.0",
+  "survey_date": "2026-10-20",
+  "blocks": 353,
+  "font_files": 271,
+  "projects": 6,
+  "block_status": {
+    "complete": 326,
+    "not-applicable": 10,
+    "partial": 11,
+    "uncovered": 6
+  },
+  "target_codepoints": 172369,
+  "covered_codepoints": 89835,
+  "missing_codepoints": 82534,
+  "project_summary": {
+    "noto": {
+      "font_files": 224,
+      "covered_codepoints": 36522,
+      "block_status": {
+        "complete": 235,
+        "not-applicable": 10,
+        "partial": 56,
+        "uncovered": 52
+      }
+    },
+    "noto-cjk": {
+      "font_files": 10,
+      "covered_codepoints": 44831,
+      "block_status": {
+        "complete": 25,
+        "not-applicable": 10,
+        "partial": 40,
+        "uncovered": 278
+      }
+    },
+    "noto-emoji": {
+      "font_files": 1,
+      "covered_codepoints": 1449,
+      "block_status": {
+        "complete": 2,
+        "not-applicable": 10,
+        "partial": 23,
+        "uncovered": 318
+      }
+    },
+    "unifont": {
+      "font_files": 2,
+      "covered_codepoints": 78211,
+      "block_status": {
+        "complete": 319,
+        "not-applicable": 10,
+        "partial": 12,
+        "uncovered": 12
+      }
+    },
+    "dejavu": {
+      "font_files": 22,
+      "covered_codepoints": 6945,
+      "block_status": {
+        "complete": 25,
+        "not-applicable": 10,
+        "partial": 45,
+        "uncovered": 273
+      }
+    },
+    "freefont": {
+      "font_files": 12,
+      "covered_codepoints": 9885,
+      "block_status": {
+        "complete": 48,
+        "not-applicable": 10,
+        "partial": 43,
+        "uncovered": 252
+      }
+    }
+  }
+}

@@ -1,0 +1,3737 @@
+{
+  "retrieved_at": "2026-10-20T17:49:24.307824+00:00",
+  "inputs": [
+    {
+      "id": "ucd-Blocks.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/Blocks.txt",
+      "sha256": "a58f8d322f3c5e254f9f97b1cbf76a454a7e02de6ac35619a5e4f27aaabfd553",
+      "bytes": 11906
+    },
+    {
+      "id": "ucd-UnicodeData.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/UnicodeData.txt",
+      "sha256": "0736451de439ae7baf1425136617da495e09ee5afbe6e394374db7009ea08950",
+      "bytes": 2243593
+    },
+    {
+      "id": "ucd-DerivedCoreProperties.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/DerivedCoreProperties.txt",
+      "sha256": "09c928886a178fcafd93c29e4bd59073a058e5a100b716d425cb563ab50f68c9",
+      "bytes": 1159889
+    },
+    {
+      "id": "ucd-license",
+      "url": "https://www.unicode.org/license.txt",
+      "sha256": "e7a93b009565cfce55919a381437ac4db883e9da2126fa28b91d12732bc53d96",
+      "bytes": 1995
+    },
+    {
+      "id": "NotoFangsongKSSRotated",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoFangsongKSSRotated/unhinted/ttf/NotoFangsongKSSRotated-Regular.ttf",
+      "sha256": "0718366be8711739da348cfb13615dee45ae645836663ce5e69136728ac0301e",
+      "bytes": 633516
+    },
+    {
+      "id": "NotoFangsongKSSVertical",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoFangsongKSSVertical/unhinted/ttf/NotoFangsongKSSVertical-Regular.ttf",
+      "sha256": "9825f29fb1c41f4fefe3ade7bf9c98afa6551f546911549bafd818f5bbac7ff7",
+      "bytes": 221008
+    },
+    {
+      "id": "NotoKufiArabic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoKufiArabic/unhinted/ttf/NotoKufiArabic-Regular.ttf",
+      "sha256": "e245bdc293b07d903603054f88746e8e51d9ff0bfd88905b0d9842198732d2b1",
+      "bytes": 139236
+    },
+    {
+      "id": "NotoMusic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoMusic/unhinted/ttf/NotoMusic-Regular.ttf",
+      "sha256": "26c0a28d7c6f96c70f1401db23066c5ea0ee1cdf155c79bc01ad2efb040de816",
+      "bytes": 80716
+    },
+    {
+      "id": "NotoNaskhArabic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoNaskhArabic/unhinted/ttf/NotoNaskhArabic-Regular.ttf",
+      "sha256": "c34fdbd98af4dbc45ca192a23d2eeb77032add83086f5fe32957d23b3f36b221",
+      "bytes": 158580
+    },
+    {
+      "id": "NotoNaskhArabicUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoNaskhArabicUI/unhinted/ttf/NotoNaskhArabicUI-Regular.ttf",
+      "sha256": "911e7df37b7a18d93036caa70cdf0cbdfeac0c6c280fa8c7d6ff772aaa98b550",
+      "bytes": 152080
+    },
+    {
+      "id": "NotoNastaliqUrdu",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoNastaliqUrdu/unhinted/ttf/NotoNastaliqUrdu-Regular.ttf",
+      "sha256": "6decda3b03f6366dbd75e3a22544d248ca686b582f897fae8a7dc027302812e3",
+      "bytes": 176600
+    },
+    {
+      "id": "NotoRashiHebrew",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoRashiHebrew/unhinted/ttf/NotoRashiHebrew-Regular.ttf",
+      "sha256": "a63509cab4de78b1491b5d617cd9a5765c156007c8c27e9f7c7ff57af8902d97",
+      "bytes": 16856
+    },
+    {
+      "id": "NotoSans",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSans/unhinted/ttf/NotoSans-Regular.ttf",
+      "sha256": "f3961a9cde016d41a4879aecda1474d3a36d6bf54fa0e4643de029cc2248b0e8",
+      "bytes": 431364
+    },
+    {
+      "id": "NotoSansAdlam",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansAdlam/unhinted/ttf/NotoSansAdlam-Regular.ttf",
+      "sha256": "e723b210127ffd4aa2f467c3d417d0764168296c9457ca42e498c7258956f2ce",
+      "bytes": 60276
+    },
+    {
+      "id": "NotoSansAdlamUnjoined",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansAdlamUnjoined/unhinted/ttf/NotoSansAdlamUnjoined-Regular.ttf",
+      "sha256": "c95939e18226b7d429b99d300aa6d3c5635c3563f948f5fc1398ffdcc9e023d2",
+      "bytes": 23548
+    },
+    {
+      "id": "NotoSansAnatolianHieroglyphs",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansAnatolianHieroglyphs/unhinted/ttf/NotoSansAnatolianHieroglyphs-Regular.ttf",
+      "sha256": "42d15a8dbf397f967f23f662a57990c269137002f52ca5087c444c1465da0dd2",
+      "bytes": 228124
+    },
+    {
+      "id": "NotoSansArabic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansArabic/unhinted/ttf/NotoSansArabic-Regular.ttf",
+      "sha256": "bd86ca02f087d7f3c3788ba458fb6b73744c7639ed276b8d870dba6def6c40d0",
+      "bytes": 142140
+    },
+    {
+      "id": "NotoSansArabicUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansArabicUI/unhinted/ttf/NotoSansArabicUI-Regular.ttf",
+      "sha256": "f4fe1866a64cba1e8b8d08a67cd29070f919edf778ca5de983c1f2a690fc953b",
+      "bytes": 190944
+    },
+    {
+      "id": "NotoSansArmenian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansArmenian/unhinted/ttf/NotoSansArmenian-Regular.ttf",
+      "sha256": "73bde9f3c63aa5ed39236e8a2837224605210a98b54d65724676c0119fcaa24c",
+      "bytes": 18772
+    },
+    {
+      "id": "NotoSansAvestan",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansAvestan/unhinted/ttf/NotoSansAvestan-Regular.ttf",
+      "sha256": "ef45f335aa9dd2d3feecd52ee4195dfe509a6f17dfb06f31c7b955724feb734f",
+      "bytes": 12504
+    },
+    {
+      "id": "NotoSansBalinese",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBalinese/unhinted/ttf/NotoSansBalinese-Regular.ttf",
+      "sha256": "cee58a184e7e00c4332087ac01870a69ac52fd5fa17ea3783ac728c945af1827",
+      "bytes": 92380
+    },
+    {
+      "id": "NotoSansBamum",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBamum/unhinted/ttf/NotoSansBamum-Regular.ttf",
+      "sha256": "cdcda48acdf2bf3d39accd6b3ba8d4a61a34df5e80c58e10366a346c97388ec6",
+      "bytes": 149152
+    },
+    {
+      "id": "NotoSansBassaVah",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBassaVah/unhinted/ttf/NotoSansBassaVah-Regular.ttf",
+      "sha256": "7d8e76424575d11c8bd1e749e3c88bed1849a7d7678afe9f4792534f6672e110",
+      "bytes": 8068
+    },
+    {
+      "id": "NotoSansBatak",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBatak/unhinted/ttf/NotoSansBatak-Regular.ttf",
+      "sha256": "e92e4bffffc64f7265ca9da1097e8b8be31fb963b8148edd06d1a22e1a449160",
+      "bytes": 21860
+    },
+    {
+      "id": "NotoSansBengali",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBengali/unhinted/ttf/NotoSansBengali-Regular.ttf",
+      "sha256": "5dceda02816fece18ea6796f474f5d3170f1d862f21b1e809cdc94b1caa4b6ec",
+      "bytes": 103704
+    },
+    {
+      "id": "NotoSansBengaliUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBengali/unhinted/ttf/NotoSansBengaliUI-Regular.ttf",
+      "sha256": "5be172d33e9ab142cb2771fb50556ed5b8dd4822d268dd6f3027d6d6f16572e6",
+      "bytes": 134900
+    },
+    {
+      "id": "NotoSansBhaiksuki",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBhaiksuki/unhinted/ttf/NotoSansBhaiksuki-Regular.ttf",
+      "sha256": "da638c47aecc6d7fdb945ce98ddcddbbe8a141e4bfbaf34380254e70f1b239ff",
+      "bytes": 232524
+    },
+    {
+      "id": "NotoSansBrahmi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBrahmi/unhinted/ttf/NotoSansBrahmi-Regular.ttf",
+      "sha256": "5607e874c4793381e22ba7800b748de43f801829e6b9b49f7b7b2cc3973027f6",
+      "bytes": 46972
+    },
+    {
+      "id": "NotoSansBuginese",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBuginese/unhinted/ttf/NotoSansBuginese-Regular.ttf",
+      "sha256": "bc005e5bec25e6f80514023397c620850f766783f194316c341a14db610ad36f",
+      "bytes": 7184
+    },
+    {
+      "id": "NotoSansBuhid",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansBuhid/unhinted/ttf/NotoSansBuhid-Regular.ttf",
+      "sha256": "c617e108d7b95c105cfe8cccf3113b25c05b06466c21e44d2595e57d608e9718",
+      "bytes": 5268
+    },
+    {
+      "id": "NotoSansCanadianAboriginal",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCanadianAboriginal/unhinted/ttf/NotoSansCanadianAboriginal-Regular.ttf",
+      "sha256": "dc212a1c1cd2d9c30d954b3fbda0abfbd2e30273032a3d4352e1a8644f50e39a",
+      "bytes": 94888
+    },
+    {
+      "id": "NotoSansCarian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCarian/unhinted/ttf/NotoSansCarian-Regular.ttf",
+      "sha256": "51684a2abf9bdb8a2709e4792d7577aa80ac7d31d505735b5d6750406f11b43d",
+      "bytes": 6272
+    },
+    {
+      "id": "NotoSansCaucasianAlbanian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCaucasianAlbanian/unhinted/ttf/NotoSansCaucasianAlbanian-Regular.ttf",
+      "sha256": "8bd42b9e9a852e38dfc7d6821d8c939697886e691e15cf644d1eccc40f7ac2b4",
+      "bytes": 24752
+    },
+    {
+      "id": "NotoSansChakma",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansChakma/unhinted/ttf/NotoSansChakma-Regular.ttf",
+      "sha256": "dc9af5661f93742f3c8ae5ae524268c77d915c8e1c70d02e37a5b57dca97d34e",
+      "bytes": 56784
+    },
+    {
+      "id": "NotoSansCham",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCham/unhinted/ttf/NotoSansCham-Regular.ttf",
+      "sha256": "d48a34e02b4096eb3f2e008b74459789540598c2274d65fc53012517d0b08d92",
+      "bytes": 32036
+    },
+    {
+      "id": "NotoSansCherokee",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCherokee/unhinted/ttf/NotoSansCherokee-Regular.ttf",
+      "sha256": "4460410f1a089f79af329d5d26e09381ba553a05baa7c1f3c352fc43bb96878d",
+      "bytes": 65168
+    },
+    {
+      "id": "NotoSansChorasmian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansChorasmian/unhinted/ttf/NotoSansChorasmian-Regular.ttf",
+      "sha256": "9d5a0971077f541748b88fa93f8a01c21f6089aaf7fe446b6bd9f20e5300edef",
+      "bytes": 17356
+    },
+    {
+      "id": "NotoSansCoptic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCoptic/unhinted/ttf/NotoSansCoptic-Regular.ttf",
+      "sha256": "37712bf2c7e2d0b9597769663a7b7db97a7845a34ae1bff85d8285a45a4771c0",
+      "bytes": 31368
+    },
+    {
+      "id": "NotoSansCuneiform",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCuneiform/unhinted/ttf/NotoSansCuneiform-Regular.ttf",
+      "sha256": "e287671738e7f686d4f5ad2166a03d66ee4f6eb6c087aa47778fe2039f84f2cc",
+      "bytes": 819932
+    },
+    {
+      "id": "NotoSansCypriot",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCypriot/unhinted/ttf/NotoSansCypriot-Regular.ttf",
+      "sha256": "23f97e6a1d6f64d464e6a209e607da9e2b1fc3b2aab39ffe285371df72d70723",
+      "bytes": 7932
+    },
+    {
+      "id": "NotoSansCyproMinoan",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansCyproMinoan/unhinted/ttf/NotoSansCyproMinoan-Regular.ttf",
+      "sha256": "cdf993c13853889cad11d6f840d6cf8926ce28b0e6dd1fbfd6305f538fef43e3",
+      "bytes": 12504
+    },
+    {
+      "id": "NotoSansDeseret",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansDeseret/unhinted/ttf/NotoSansDeseret-Regular.ttf",
+      "sha256": "0813aa095d67ca91a8741cc30e08ad0bda57e3444ce5240c9fc1821a7a978d70",
+      "bytes": 10692
+    },
+    {
+      "id": "NotoSansDevanagari",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansDevanagari/unhinted/ttf/NotoSansDevanagari-Regular.ttf",
+      "sha256": "9c7d935139ea6a1e6ad9dbac4f6d27ece1e04bca8123c8888d00a0f9df4724cd",
+      "bytes": 184228
+    },
+    {
+      "id": "NotoSansDevanagariUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansDevanagari/unhinted/ttf/NotoSansDevanagariUI-Regular.ttf",
+      "sha256": "208fb89292fa6963b50e10b35f3fa96fc06d86e4b2d311610f2edc5af8253a4e",
+      "bytes": 170708
+    },
+    {
+      "id": "NotoSansDuployan",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansDuployan/unhinted/ttf/NotoSansDuployan-Regular.ttf",
+      "sha256": "969d84fe2f971de6bc7bf9b25698a63019967ca2739e4ec9ddb7e355aebbe0f5",
+      "bytes": 1977212
+    },
+    {
+      "id": "NotoSansEgyptianHieroglyphs",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansEgyptianHieroglyphs/unhinted/ttf/NotoSansEgyptianHieroglyphs-Regular.ttf",
+      "sha256": "38a33a230624671eebedce95bd4237f7b3b2bb1fa25688ff959bed4070a1ea95",
+      "bytes": 585872
+    },
+    {
+      "id": "NotoSansElbasan",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansElbasan/unhinted/ttf/NotoSansElbasan-Regular.ttf",
+      "sha256": "4c0703284483476a1077ae50b93976573197a9e673193bb2eb7202bf6e2f3446",
+      "bytes": 11012
+    },
+    {
+      "id": "NotoSansElymaic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansElymaic/unhinted/ttf/NotoSansElymaic-Regular.ttf",
+      "sha256": "29571749fede39715b09cbadbfedcac089acf33475137a0aac7addd91d333181",
+      "bytes": 8884
+    },
+    {
+      "id": "NotoSansEthiopic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansEthiopic/unhinted/ttf/NotoSansEthiopic-Regular.ttf",
+      "sha256": "86b9c07c049e68438388d00a34033fa28cabeef91b26e1bbed67512d360166d4",
+      "bytes": 289244
+    },
+    {
+      "id": "NotoSansGeorgian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGeorgian/unhinted/ttf/NotoSansGeorgian-Regular.ttf",
+      "sha256": "f4b229b126859725b75031dd8c051335d20c85e4eb6d525af28f3e83e471baa4",
+      "bytes": 35300
+    },
+    {
+      "id": "NotoSansGlagolitic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGlagolitic/unhinted/ttf/NotoSansGlagolitic-Regular.ttf",
+      "sha256": "bff02d40f6854f3e1c8bc2825277876f29b79a95c1ab26acf973237d8b17883e",
+      "bytes": 23836
+    },
+    {
+      "id": "NotoSansGothic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGothic/unhinted/ttf/NotoSansGothic-Regular.ttf",
+      "sha256": "244b01edb423d34cd4e4ee3b10ff442adafb6debc1e69bd268efae0ec917c0f1",
+      "bytes": 6208
+    },
+    {
+      "id": "NotoSansGrantha",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGrantha/unhinted/ttf/NotoSansGrantha-Regular.ttf",
+      "sha256": "8b1ee1ea887d181bd68fe41792c75feabe387f8e663da51348233a2193ab277f",
+      "bytes": 284888
+    },
+    {
+      "id": "NotoSansGujarati",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGujarati/unhinted/ttf/NotoSansGujarati-Regular.ttf",
+      "sha256": "18727143b8eadade0a59dca80959ef784bf8d55e07285d1b4096594dbf829f0a",
+      "bytes": 142760
+    },
+    {
+      "id": "NotoSansGujaratiUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGujarati/unhinted/ttf/NotoSansGujaratiUI-Regular.ttf",
+      "sha256": "a9eebf5f211cd0ce3c1bbb369bdc449620bb00433eae430692bafb2c325e7606",
+      "bytes": 142800
+    },
+    {
+      "id": "NotoSansGunjalaGondi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGunjalaGondi/unhinted/ttf/NotoSansGunjalaGondi-Regular.ttf",
+      "sha256": "a95ad487aa1249e0fb2a52c0f760c5e539d345c55afb72f714f616b046a3a762",
+      "bytes": 69836
+    },
+    {
+      "id": "NotoSansGurmukhi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGurmukhi/unhinted/ttf/NotoSansGurmukhi-Regular.ttf",
+      "sha256": "2454c944fda799d2861f11c03e492c453e33083dd1e8d99bd6baac8de71ad0f0",
+      "bytes": 35956
+    },
+    {
+      "id": "NotoSansGurmukhiUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansGurmukhi/unhinted/ttf/NotoSansGurmukhiUI-Regular.ttf",
+      "sha256": "25300714731dedd50f9e0cbaca769f7e413ac03c69f86100fc3db5670b29f92d",
+      "bytes": 36012
+    },
+    {
+      "id": "NotoSansHanifiRohingya",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansHanifiRohingya/unhinted/ttf/NotoSansHanifiRohingya-Regular.ttf",
+      "sha256": "d0ac376c8eefb67d3df502b81248c9f2c340385016398c6ccd7b14dcf82a4b44",
+      "bytes": 19404
+    },
+    {
+      "id": "NotoSansHanunoo",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansHanunoo/unhinted/ttf/NotoSansHanunoo-Regular.ttf",
+      "sha256": "00c44c4375203825b1a2e2ad489291f6695724c7340418c725be919581a55d5d",
+      "bytes": 7620
+    },
+    {
+      "id": "NotoSansHatran",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansHatran/unhinted/ttf/NotoSansHatran-Regular.ttf",
+      "sha256": "fe2ef794621b1f9a491c027a5537b6c6f96db5a30ff561cfb2a7cb037e843403",
+      "bytes": 4708
+    },
+    {
+      "id": "NotoSansHebrew",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansHebrew/unhinted/ttf/NotoSansHebrew-Regular.ttf",
+      "sha256": "04272f5600d0ec816d31d0df73b23aa8d3501ea359ebe820da31c11ffcf00853",
+      "bytes": 16836
+    },
+    {
+      "id": "NotoSansImperialAramaic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansImperialAramaic/unhinted/ttf/NotoSansImperialAramaic-Regular.ttf",
+      "sha256": "5b3bd3e7b17591a957bdb22fd411202e37badecabe6386a1b419e60116e3199f",
+      "bytes": 6212
+    },
+    {
+      "id": "NotoSansIndicSiyaqNumbers",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansIndicSiyaqNumbers/unhinted/ttf/NotoSansIndicSiyaqNumbers-Regular.ttf",
+      "sha256": "5cf6d646800be777ca5fa822ff26101aa714c339b1eb8ca21629882014336e7f",
+      "bytes": 22344
+    },
+    {
+      "id": "NotoSansInscriptionalPahlavi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansInscriptionalPahlavi/unhinted/ttf/NotoSansInscriptionalPahlavi-Regular.ttf",
+      "sha256": "1776a4a688e99a5c9720058e798fb82775b5763d57553f8912ef0fed3433ccbc",
+      "bytes": 5648
+    },
+    {
+      "id": "NotoSansInscriptionalParthian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansInscriptionalParthian/unhinted/ttf/NotoSansInscriptionalParthian-Regular.ttf",
+      "sha256": "70c2c24e5442cf4ae70af6b8274fccedc4807317fa7c3cf78272349c35bfb506",
+      "bytes": 7508
+    },
+    {
+      "id": "NotoSansJavanese",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansJavanese/unhinted/ttf/NotoSansJavanese-Regular.ttf",
+      "sha256": "016f43b042c0b01e29688f71607e5d6fdb0effef6fc7aa3aa8eae6b4427fdca8",
+      "bytes": 120456
+    },
+    {
+      "id": "NotoSansKaithi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKaithi/unhinted/ttf/NotoSansKaithi-Regular.ttf",
+      "sha256": "ba33fd78d18df942260c53df4080254901aa7c3b69678c7571d680bf063a5e2d",
+      "bytes": 69684
+    },
+    {
+      "id": "NotoSansKannada",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKannada/unhinted/ttf/NotoSansKannada-Regular.ttf",
+      "sha256": "2870274619c2a4abe5d6b11fcb7c4a372eba765b6b7881d459b0eb0a609a68eb",
+      "bytes": 135488
+    },
+    {
+      "id": "NotoSansKannadaUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKannada/unhinted/ttf/NotoSansKannadaUI-Regular.ttf",
+      "sha256": "f50ed371b4f5ff3a0996bd8f53a0d174900499f4f0f8b5193ad36506285d39cc",
+      "bytes": 135508
+    },
+    {
+      "id": "NotoSansKawi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKawi/unhinted/ttf/NotoSansKawi-Regular.ttf",
+      "sha256": "a39966194d54a22e284f381ff3d39b5b6739bb8dc1132cce3fe1dafc985d9981",
+      "bytes": 39796
+    },
+    {
+      "id": "NotoSansKayahLi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKayahLi/unhinted/ttf/NotoSansKayahLi-Regular.ttf",
+      "sha256": "b4ed32acfe50f0019f55b5440a6ea67cc3806b9f9522d542391ecc9beb5d4772",
+      "bytes": 9272
+    },
+    {
+      "id": "NotoSansKharoshthi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKharoshthi/unhinted/ttf/NotoSansKharoshthi-Regular.ttf",
+      "sha256": "c1f02de3088c06cbe8824f8c92707e34fd56593a7a0e3a33b92288b558b93e76",
+      "bytes": 34204
+    },
+    {
+      "id": "NotoSansKhmer",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKhmer/unhinted/ttf/NotoSansKhmer-Regular.ttf",
+      "sha256": "60c10dbfae33a44f1897cd939789bd173aedb7c7dc0a9af389a737e33cb7e548",
+      "bytes": 67784
+    },
+    {
+      "id": "NotoSansKhojki",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKhojki/unhinted/ttf/NotoSansKhojki-Regular.ttf",
+      "sha256": "763f5d2042c2816ccf43b48372b25d31275788bfe7edd6f24643b83497980a26",
+      "bytes": 44552
+    },
+    {
+      "id": "NotoSansKhudawadi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansKhudawadi/unhinted/ttf/NotoSansKhudawadi-Regular.ttf",
+      "sha256": "9efe023882dd36fbf7d838a7c5ec30e1b22a44f9733af8209dc7b8b30fdd0711",
+      "bytes": 18684
+    },
+    {
+      "id": "NotoSansLao",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLao/unhinted/ttf/NotoSansLao-Regular.ttf",
+      "sha256": "d3976b0ac08702c54999ff42eae295d1597fd73b44e0c57d7f4917524e18afbe",
+      "bytes": 21720
+    },
+    {
+      "id": "NotoSansLaoLooped",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLaoLooped/unhinted/ttf/NotoSansLaoLooped-Regular.ttf",
+      "sha256": "4939bb32c0448b876ca023f66d717d292cf9302d6190deafb6230892f1f3c10d",
+      "bytes": 34392
+    },
+    {
+      "id": "NotoSansLepcha",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLepcha/unhinted/ttf/NotoSansLepcha-Regular.ttf",
+      "sha256": "e3f52772d537a0156efa2dbfb7057f154485990df555ef15bd37e5046907dee6",
+      "bytes": 26036
+    },
+    {
+      "id": "NotoSansLimbu",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLimbu/unhinted/ttf/NotoSansLimbu-Regular.ttf",
+      "sha256": "5cea5d0f2a089c36ea24e8481f65a2aff5d4b0890db440326cea2c808f82d582",
+      "bytes": 12804
+    },
+    {
+      "id": "NotoSansLinearA",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLinearA/unhinted/ttf/NotoSansLinearA-Regular.ttf",
+      "sha256": "d02555d4ac3b990d8078c7aa83cb38e95ea25860383b2071dba7c39279569dce",
+      "bytes": 57832
+    },
+    {
+      "id": "NotoSansLinearB",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLinearB/unhinted/ttf/NotoSansLinearB-Regular.ttf",
+      "sha256": "122f80a3b0a582b175fbd7cc3c30d8fba36b9bb965316f85ee9e9afe9415de4e",
+      "bytes": 62548
+    },
+    {
+      "id": "NotoSansLisu",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLisu/unhinted/ttf/NotoSansLisu-Regular.ttf",
+      "sha256": "61bbab80b823643a4db2ec31c1f64167dd023fc85b245f0f53de4cdbb853e849",
+      "bytes": 6388
+    },
+    {
+      "id": "NotoSansLycian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLycian/unhinted/ttf/NotoSansLycian-Regular.ttf",
+      "sha256": "917624bc78331f84dd338eab83f21e0cdddd91ef94a2bb6f1dfff631fb3e634d",
+      "bytes": 4152
+    },
+    {
+      "id": "NotoSansLydian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansLydian/unhinted/ttf/NotoSansLydian-Regular.ttf",
+      "sha256": "6dbc48fbf04ae04021c78273492dbab284eb8ffc2cd12fd3d0b61813b123162b",
+      "bytes": 4680
+    },
+    {
+      "id": "NotoSansMahajani",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMahajani/unhinted/ttf/NotoSansMahajani-Regular.ttf",
+      "sha256": "b1d815db4fccdf7053d798d0c98a5a40574529ac9b1bcf08050c47edabaac079",
+      "bytes": 13780
+    },
+    {
+      "id": "NotoSansMalayalam",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMalayalam/unhinted/ttf/NotoSansMalayalam-Regular.ttf",
+      "sha256": "cc39bb1f7d63b582a2aec1abf2469a43b805a3523a27e0a0eee8cd32702541d5",
+      "bytes": 77312
+    },
+    {
+      "id": "NotoSansMalayalamUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMalayalam/unhinted/ttf/NotoSansMalayalamUI-Regular.ttf",
+      "sha256": "77e7595da419a6cc2191135091f49741b32d0d6072139aacb29a1f6139c02846",
+      "bytes": 77300
+    },
+    {
+      "id": "NotoSansMandaic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMandaic/unhinted/ttf/NotoSansMandaic-Regular.ttf",
+      "sha256": "a4b3656eda324e5d895abdef3796b56e96bff04818b07c0298b85c1e5f061c85",
+      "bytes": 19112
+    },
+    {
+      "id": "NotoSansManichaean",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansManichaean/unhinted/ttf/NotoSansManichaean-Regular.ttf",
+      "sha256": "8d4b476b91110463e44d6eb91885b4457167598a6566f39bdbe13208e3460256",
+      "bytes": 31156
+    },
+    {
+      "id": "NotoSansMarchen",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMarchen/unhinted/ttf/NotoSansMarchen-Regular.ttf",
+      "sha256": "fb40b1294e8f7f4e93f9276b2c3d2972a2643511394eb3db806e0e257b62b893",
+      "bytes": 127388
+    },
+    {
+      "id": "NotoSansMasaramGondi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMasaramGondi/unhinted/ttf/NotoSansMasaramGondi-Regular.ttf",
+      "sha256": "da26087eb956e722a316a531a42f9f1ee8f8b60bf1a313c5763d71361c729c80",
+      "bytes": 30628
+    },
+    {
+      "id": "NotoSansMath",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMath/unhinted/ttf/NotoSansMath-Regular.ttf",
+      "sha256": "b127e84699212b6b2ef50aff58e0ebebeec04ffe6db1b9eb9e209c8c3d97b4aa",
+      "bytes": 657440
+    },
+    {
+      "id": "NotoSansMayanNumerals",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMayanNumerals/unhinted/ttf/NotoSansMayanNumerals-Regular.ttf",
+      "sha256": "ba50b51c3e404a5bb64ccc89fed3d6737c2379deeb7428e24c2bb9f6b52585cf",
+      "bytes": 4396
+    },
+    {
+      "id": "NotoSansMedefaidrin",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMedefaidrin/unhinted/ttf/NotoSansMedefaidrin-Regular.ttf",
+      "sha256": "4c0c75d21179cf4064275febe19948c4142ce9922e5c7b6d14ca949af917c383",
+      "bytes": 30432
+    },
+    {
+      "id": "NotoSansMeeteiMayek",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMeeteiMayek/unhinted/ttf/NotoSansMeeteiMayek-Regular.ttf",
+      "sha256": "2b66fa8f6a094d50a55b5db6385567f2252b1a89e765a9c30c8b66c5bdf466fa",
+      "bytes": 16536
+    },
+    {
+      "id": "NotoSansMendeKikakui",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMendeKikakui/unhinted/ttf/NotoSansMendeKikakui-Regular.ttf",
+      "sha256": "b102ac61dfe23f1f8344559ff38f4a5e99837edc66a65b6431c630d74d5d2dc1",
+      "bytes": 35148
+    },
+    {
+      "id": "NotoSansMeroitic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMeroitic/unhinted/ttf/NotoSansMeroitic-Regular.ttf",
+      "sha256": "2baf503fa5c041fd025493de311e45b8680c9f0bb471a8a2418aa4e47a4b7edb",
+      "bytes": 33384
+    },
+    {
+      "id": "NotoSansMiao",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMiao/unhinted/ttf/NotoSansMiao-Regular.ttf",
+      "sha256": "d8cb66dfa18893b9eb525f204d7225d8d7ee675eb2140164aa0e583f51c52936",
+      "bytes": 37524
+    },
+    {
+      "id": "NotoSansModi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansModi/unhinted/ttf/NotoSansModi-Regular.ttf",
+      "sha256": "d4515137b7da6ede55d1b0fb2bb34ac83822f847b8243a4960709c67739bce48",
+      "bytes": 44172
+    },
+    {
+      "id": "NotoSansMongolian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMongolian/unhinted/ttf/NotoSansMongolian-Regular.ttf",
+      "sha256": "2986e50b7c66b7cbc42a0d82cc8143697a25ef56e134fe19adfd685c5f4ea57f",
+      "bytes": 342708
+    },
+    {
+      "id": "NotoSansMono",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMono/unhinted/ttf/NotoSansMono-Regular.ttf",
+      "sha256": "87f8ce0522a6c99b743ee5fc75b4073cfdd575639119672828b7b9944b65b4f4",
+      "bytes": 388660
+    },
+    {
+      "id": "NotoSansMro",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMro/unhinted/ttf/NotoSansMro-Regular.ttf",
+      "sha256": "7751f55ca7a4648cb08def4be602de973a5783bcd7a67e302c5b186eaccf3821",
+      "bytes": 6580
+    },
+    {
+      "id": "NotoSansMultani",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMultani/unhinted/ttf/NotoSansMultani-Regular.ttf",
+      "sha256": "aaf2224f8be8042764e7d6f38331c95918459d416fa3cdb7b60260cdfc0630d5",
+      "bytes": 9676
+    },
+    {
+      "id": "NotoSansMyanmar",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansMyanmar/unhinted/ttf/NotoSansMyanmar-Regular.ttf",
+      "sha256": "f4be6ef43871516d8347c5217a2033991b8ecda2dd1200007c2fb431a66d64db",
+      "bytes": 148628
+    },
+    {
+      "id": "NotoSansNKo",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNKo/unhinted/ttf/NotoSansNKo-Regular.ttf",
+      "sha256": "72107ca6885331147fb0ca4d7a71f96e6b3e989a75d66ef979a96966b28f8526",
+      "bytes": 24608
+    },
+    {
+      "id": "NotoSansNKoUnjoined",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNKoUnjoined/unhinted/ttf/NotoSansNKoUnjoined-Regular.ttf",
+      "sha256": "a05425188e943ea6681fbb72d87cfa3df8e3e6068d0637bfe6121169b08303de",
+      "bytes": 12284
+    },
+    {
+      "id": "NotoSansNabataean",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNabataean/unhinted/ttf/NotoSansNabataean-Regular.ttf",
+      "sha256": "7ce0e1a9d18e15b1a7925a6e10ec8681e6fee131eb5536e80b0e7d7f3d2e2e33",
+      "bytes": 8000
+    },
+    {
+      "id": "NotoSansNagMundari",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNagMundari/unhinted/ttf/NotoSansNagMundari-Regular.ttf",
+      "sha256": "9a5453c6749680e2fa4b21335aca32077dea6476f71e4c406a8650bf72eaac40",
+      "bytes": 10676
+    },
+    {
+      "id": "NotoSansNandinagari",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNandinagari/unhinted/ttf/NotoSansNandinagari-Regular.ttf",
+      "sha256": "8a8aec2e37aec3e34c0601fc61c4b54ec9e3facb1b62bc3e18b7910df1ffd442",
+      "bytes": 135316
+    },
+    {
+      "id": "NotoSansNewTaiLue",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNewTaiLue/unhinted/ttf/NotoSansNewTaiLue-Regular.ttf",
+      "sha256": "8fbdf8c1ad04aad87ba087069db7b7ec6194e251522da01489fe28a73153aec9",
+      "bytes": 20240
+    },
+    {
+      "id": "NotoSansNewa",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNewa/unhinted/ttf/NotoSansNewa-Regular.ttf",
+      "sha256": "b772e089e2298380589f8cdea1f53da9e8ad0aa3e2edbaaaeb8704cd5072309c",
+      "bytes": 152664
+    },
+    {
+      "id": "NotoSansNushu",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansNushu/unhinted/ttf/NotoSansNushu-Regular.ttf",
+      "sha256": "1a596b0a53d4352e92aefe9f462b29461a70cb6705f38bb2c9ff2fdead35e0c4",
+      "bytes": 116228
+    },
+    {
+      "id": "NotoSansOgham",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOgham/unhinted/ttf/NotoSansOgham-Regular.ttf",
+      "sha256": "05bc7419c03f7346b9a4199fd7b6cfc29dbf7f9b27f6a769ccff482f6dd242d6",
+      "bytes": 4348
+    },
+    {
+      "id": "NotoSansOlChiki",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOlChiki/unhinted/ttf/NotoSansOlChiki-Regular.ttf",
+      "sha256": "47cff9f151ef1eeffb79f1bf2fb303896e1f817a2b14dcdb23b9acb649cc55ce",
+      "bytes": 8564
+    },
+    {
+      "id": "NotoSansOldHungarian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldHungarian/unhinted/ttf/NotoSansOldHungarian-Regular.ttf",
+      "sha256": "eb429f5e054e264205f20264aac9e1df1afaf2f9fb51f404e28d850e563dd87c",
+      "bytes": 53612
+    },
+    {
+      "id": "NotoSansOldItalic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldItalic/unhinted/ttf/NotoSansOldItalic-Regular.ttf",
+      "sha256": "71ceb944bcbb377b2684110fb700cf8274e9064c7043354baca00c8e9bb939da",
+      "bytes": 7220
+    },
+    {
+      "id": "NotoSansOldNorthArabian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldNorthArabian/unhinted/ttf/NotoSansOldNorthArabian-Regular.ttf",
+      "sha256": "807b2d62cd2a99986bd9f17a56f0a5e93c720eb223bee3dda47a126a9b7365b3",
+      "bytes": 6916
+    },
+    {
+      "id": "NotoSansOldPermic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldPermic/unhinted/ttf/NotoSansOldPermic-Regular.ttf",
+      "sha256": "e3a949984a83c0d8b37ba44f82857f2ca1e2c23ae91e7d11cfd414039d356abf",
+      "bytes": 9648
+    },
+    {
+      "id": "NotoSansOldPersian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldPersian/unhinted/ttf/NotoSansOldPersian-Regular.ttf",
+      "sha256": "9dd27b6ae6aec1a8a79e4778dfb2d7371a1a342635b9bbba2a7b32c7671d936c",
+      "bytes": 12440
+    },
+    {
+      "id": "NotoSansOldSogdian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldSogdian/unhinted/ttf/NotoSansOldSogdian-Regular.ttf",
+      "sha256": "a3b8c9799aab7b9b9170b6eb4955e8d8c58e52c37266faaca168d9fbaea65fec",
+      "bytes": 17696
+    },
+    {
+      "id": "NotoSansOldSouthArabian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldSouthArabian/unhinted/ttf/NotoSansOldSouthArabian-Regular.ttf",
+      "sha256": "a4b93a852a42903fe8537f2d365e6121f0099506907ae9bdb4c6426d8bfccd8a",
+      "bytes": 4964
+    },
+    {
+      "id": "NotoSansOldTurkic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOldTurkic/unhinted/ttf/NotoSansOldTurkic-Regular.ttf",
+      "sha256": "48618c6966523002d336fbad247b01d26ccfa084d93cf7d029784980ea1162c8",
+      "bytes": 8252
+    },
+    {
+      "id": "NotoSansOriya",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOriya/unhinted/ttf/NotoSansOriya-Regular.ttf",
+      "sha256": "a16645d056017927406546aa78e4ce15e782fd8783467267b75450453d007415",
+      "bytes": 131216
+    },
+    {
+      "id": "NotoSansOsage",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOsage/unhinted/ttf/NotoSansOsage-Regular.ttf",
+      "sha256": "c40ee76873264230f5052e3609dc2069ba77b13782652e156bc1af1fa9005f19",
+      "bytes": 12188
+    },
+    {
+      "id": "NotoSansOsmanya",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansOsmanya/unhinted/ttf/NotoSansOsmanya-Regular.ttf",
+      "sha256": "70f7728a382ef1aa6974e7cd66e6eb7b1ca433742d27747e143c139bca64d097",
+      "bytes": 8204
+    },
+    {
+      "id": "NotoSansPahawhHmong",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansPahawhHmong/unhinted/ttf/NotoSansPahawhHmong-Regular.ttf",
+      "sha256": "5282a795a69ccf857dee740255293c6eaadc14d0d2744d69a54ea604bfc82814",
+      "bytes": 18120
+    },
+    {
+      "id": "NotoSansPalmyrene",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansPalmyrene/unhinted/ttf/NotoSansPalmyrene-Regular.ttf",
+      "sha256": "22796645aff3c6eca0fc0d329aa5f2a9cd760402af19260e5bcdf325989a19e4",
+      "bytes": 15332
+    },
+    {
+      "id": "NotoSansPauCinHau",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansPauCinHau/unhinted/ttf/NotoSansPauCinHau-Regular.ttf",
+      "sha256": "e86c01e4f3a893853ab01aaebf03fb44bf1f7e1dbd9d4d2f799b8ef4a4211e06",
+      "bytes": 9048
+    },
+    {
+      "id": "NotoSansPhagsPa",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansPhagsPa/unhinted/ttf/NotoSansPhagsPa-Regular.ttf",
+      "sha256": "ad1d57202a3d71241822d984d53b4f458a89fa403c73e56010ea65fb367a9299",
+      "bytes": 39668
+    },
+    {
+      "id": "NotoSansPhoenician",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansPhoenician/unhinted/ttf/NotoSansPhoenician-Regular.ttf",
+      "sha256": "2634eebf43388ca27d9079c8b2fcae53eb026af46ba166ef4c977392f862219f",
+      "bytes": 5864
+    },
+    {
+      "id": "NotoSansPsalterPahlavi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansPsalterPahlavi/unhinted/ttf/NotoSansPsalterPahlavi-Regular.ttf",
+      "sha256": "24e4b484f2d59453af1f01b90c422d0d21ed9fd137acb8f4b576c3be99f266e8",
+      "bytes": 21224
+    },
+    {
+      "id": "NotoSansRejang",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansRejang/unhinted/ttf/NotoSansRejang-Regular.ttf",
+      "sha256": "ac84f549caba39e85d0d22a62f4fcf7dcacdf263d01527eb44388e96ce58d785",
+      "bytes": 7704
+    },
+    {
+      "id": "NotoSansRunic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansRunic/unhinted/ttf/NotoSansRunic-Regular.ttf",
+      "sha256": "3510a352a373b87ebc4564109903a833d9f8239251601189f5f0719b9b389acf",
+      "bytes": 9808
+    },
+    {
+      "id": "NotoSansSamaritan",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSamaritan/unhinted/ttf/NotoSansSamaritan-Regular.ttf",
+      "sha256": "03d28559df8c63f62311222b8bf568855b6175e7bbf2a8456af0811b54877395",
+      "bytes": 10740
+    },
+    {
+      "id": "NotoSansSaurashtra",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSaurashtra/unhinted/ttf/NotoSansSaurashtra-Regular.ttf",
+      "sha256": "3fe489f7eb2e7b235f24e05a4403777d3b2c9ad735deecafe05303bb4716d2d2",
+      "bytes": 19768
+    },
+    {
+      "id": "NotoSansSharada",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSharada/unhinted/ttf/NotoSansSharada-Regular.ttf",
+      "sha256": "18642acfd4e849da32c5205ba7f55b9d946abc47292c24d88bfeecefb9430e8f",
+      "bytes": 53324
+    },
+    {
+      "id": "NotoSansShavian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansShavian/unhinted/ttf/NotoSansShavian-Regular.ttf",
+      "sha256": "d438d0b0df1fc1a70738418da70815336fa3b417b96323af7b9e3a678b9a5d56",
+      "bytes": 6328
+    },
+    {
+      "id": "NotoSansSiddham",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSiddham/unhinted/ttf/NotoSansSiddham-Regular.ttf",
+      "sha256": "eec5b7fffcee0a05f68d6cf390048bc90e8f6e0ec67590bfa1059f37175b3a02",
+      "bytes": 144800
+    },
+    {
+      "id": "NotoSansSignWriting",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSignWriting/unhinted/ttf/NotoSansSignWriting-Regular.ttf",
+      "sha256": "40fc556a170e3d22ecf943a610bee9efe3200d50604f17b0e25207f6535daad5",
+      "bytes": 5214876
+    },
+    {
+      "id": "NotoSansSinhala",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSinhala/unhinted/ttf/NotoSansSinhala-Regular.ttf",
+      "sha256": "46d5b54952a624e6e3981e0968aecc5464f3b1081131dd7a1fcd42fbf7966471",
+      "bytes": 90296
+    },
+    {
+      "id": "NotoSansSinhalaUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSinhala/unhinted/ttf/NotoSansSinhalaUI-Regular.ttf",
+      "sha256": "e8a83b7d268c9251d64ef18e4f8f9a8fc8e0584522a4ac9b196d7a09706c9283",
+      "bytes": 190352
+    },
+    {
+      "id": "NotoSansSogdian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSogdian/unhinted/ttf/NotoSansSogdian-Regular.ttf",
+      "sha256": "d549e30091f1039520f8e4aa372576a6174c7d7d6182d48e145deae10b287e15",
+      "bytes": 72128
+    },
+    {
+      "id": "NotoSansSoraSompeng",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSoraSompeng/unhinted/ttf/NotoSansSoraSompeng-Regular.ttf",
+      "sha256": "387b007c076d16255f8e336ea2a6c3e1daa131528c1c05ef6bf0477ace32b132",
+      "bytes": 8000
+    },
+    {
+      "id": "NotoSansSoyombo",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSoyombo/unhinted/ttf/NotoSansSoyombo-Regular.ttf",
+      "sha256": "e8bea2a22cc0502ce995b1615bb1c7d63598646458142e23b2386578bf7c3e50",
+      "bytes": 66308
+    },
+    {
+      "id": "NotoSansSundanese",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSundanese/unhinted/ttf/NotoSansSundanese-Regular.ttf",
+      "sha256": "509e8c42367fab9d06dfcbd0327fd9512149812609c7f500c7b159ed17c5fe05",
+      "bytes": 11424
+    },
+    {
+      "id": "NotoSansSunuwar",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSunuwar/unhinted/ttf/NotoSansSunuwar-Regular.ttf",
+      "sha256": "0d66add3f652f618c9ed996efb1b425a515231b313881b4c06b2e1c6d0700525",
+      "bytes": 14596
+    },
+    {
+      "id": "NotoSansSylotiNagri",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSylotiNagri/unhinted/ttf/NotoSansSylotiNagri-Regular.ttf",
+      "sha256": "4b594b82bb7481e9154cbc8eb7fcdbd02748c73cbc7c40790961044033ceb946",
+      "bytes": 16692
+    },
+    {
+      "id": "NotoSansSymbols",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSymbols/unhinted/ttf/NotoSansSymbols-Regular.ttf",
+      "sha256": "6eea9cb4cd39269ea9f95ba5c2735f80ae74049dfc9e1a7c932a5cfc8f0c3030",
+      "bytes": 145508
+    },
+    {
+      "id": "NotoSansSymbols2",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSymbols2/unhinted/ttf/NotoSansSymbols2-Regular.ttf",
+      "sha256": "c4a0a80f0041ce4be81e2478faad22776d23edb98ae3f0d19bd37044820ecf9d",
+      "bytes": 671568
+    },
+    {
+      "id": "NotoSansSyriac",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSyriac/unhinted/ttf/NotoSansSyriac-Regular.ttf",
+      "sha256": "1ec0391c549b5e63e4f8d810b4485a64c5551445bfb2bdbf309ce8368bef9d4c",
+      "bytes": 53584
+    },
+    {
+      "id": "NotoSansSyriacEastern",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSyriacEastern/unhinted/ttf/NotoSansSyriacEastern-Regular.ttf",
+      "sha256": "79048c6587af0addc0c7feb00e18d8e13bb3252fcb8bbf2b9e7560a513859d0b",
+      "bytes": 42440
+    },
+    {
+      "id": "NotoSansSyriacWestern",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansSyriacWestern/unhinted/ttf/NotoSansSyriacWestern-Regular.ttf",
+      "sha256": "6e89d0e774bb39169fbc9dbe8826bae71e8a58cb5e5c756c6c0b0f99c5ac1803",
+      "bytes": 57488
+    },
+    {
+      "id": "NotoSansTagalog",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTagalog/unhinted/ttf/NotoSansTagalog-Regular.ttf",
+      "sha256": "69087a0b8ad9a405b065aefefe0c298d9aa7f61b0de345566baf282c9e8282e0",
+      "bytes": 7012
+    },
+    {
+      "id": "NotoSansTagbanwa",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTagbanwa/unhinted/ttf/NotoSansTagbanwa-Regular.ttf",
+      "sha256": "7907b4a45f437347ff9f17bf3738f63a89bf42aec614f391eebdb11f4d3d518b",
+      "bytes": 5892
+    },
+    {
+      "id": "NotoSansTaiLe",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTaiLe/unhinted/ttf/NotoSansTaiLe-Regular.ttf",
+      "sha256": "34263113e4d53e377faeaafc53d2c7b142a0e344e190b9de7b185a66756c4631",
+      "bytes": 11796
+    },
+    {
+      "id": "NotoSansTaiTham",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTaiTham/unhinted/ttf/NotoSansTaiTham-Regular.ttf",
+      "sha256": "f07591d877c315027d1e8945143c6aed351f43561af1b102364ad9ea70d47d2f",
+      "bytes": 116880
+    },
+    {
+      "id": "NotoSansTaiViet",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTaiViet/unhinted/ttf/NotoSansTaiViet-Regular.ttf",
+      "sha256": "6857db6428a228ee990a511dfb931fb74b99568e26e71afc12942bf6bbe56450",
+      "bytes": 17912
+    },
+    {
+      "id": "NotoSansTakri",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTakri/unhinted/ttf/NotoSansTakri-Regular.ttf",
+      "sha256": "c14fb3d442ee9330d54d22aed37a9ee78ec4038055faa195d62661e4bb9988f9",
+      "bytes": 18456
+    },
+    {
+      "id": "NotoSansTamil",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTamil/unhinted/ttf/NotoSansTamil-Regular.ttf",
+      "sha256": "6634d9cc97a726e670df41281dd32b167a6b9b71f2036e19671ff08fdde0c292",
+      "bytes": 46600
+    },
+    {
+      "id": "NotoSansTamilUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTamil/unhinted/ttf/NotoSansTamilUI-Regular.ttf",
+      "sha256": "016886fb70981e247dfba6adfb78cfe458c767f66978cf33129cd5a5f0fb2f33",
+      "bytes": 46652
+    },
+    {
+      "id": "NotoSansTamilSupplement",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTamilSupplement/unhinted/ttf/NotoSansTamilSupplement-Regular.ttf",
+      "sha256": "1350e640b73f1cd62bb3d94e5d7e4f0ac9ff32ac64ff11fcf829099151ff86c8",
+      "bytes": 15468
+    },
+    {
+      "id": "NotoSansTangsa",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTangsa/unhinted/ttf/NotoSansTangsa-Regular.ttf",
+      "sha256": "38d92ec4dbba7a23966c2de72736224f94d02e5fb2b4d839344e732cdf3a4cad",
+      "bytes": 23056
+    },
+    {
+      "id": "NotoSansTelugu",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTelugu/unhinted/ttf/NotoSansTelugu-Regular.ttf",
+      "sha256": "dcb86a5da09365a2d73d725e429403dca988e6d50c1b1d564579a25dbc18bd29",
+      "bytes": 165212
+    },
+    {
+      "id": "NotoSansTeluguUI",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTelugu/unhinted/ttf/NotoSansTeluguUI-Regular.ttf",
+      "sha256": "2f5e1d711435df29a02f98eb724204f43904c324eb99a90203cc72867c3af9e8",
+      "bytes": 166348
+    },
+    {
+      "id": "NotoSansThaana",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansThaana/unhinted/ttf/NotoSansThaana-Regular.ttf",
+      "sha256": "7543935bdcef770c9d3dd54222651b29040e5ec82f3bc58542392b2c7a9cbd3c",
+      "bytes": 27308
+    },
+    {
+      "id": "NotoSansThai",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansThai/unhinted/ttf/NotoSansThai-Regular.ttf",
+      "sha256": "d4303fe9c63ebb72759ca8b6d2040c8ae81689f7d08d7b91c656154382b49313",
+      "bytes": 20960
+    },
+    {
+      "id": "NotoSansThaiLooped",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansThaiLooped/unhinted/ttf/NotoSansThaiLooped-Regular.ttf",
+      "sha256": "6d35234390e9072574f470309bee5d7e0ca9b4d4435803f46085a00fa00ce01a",
+      "bytes": 30976
+    },
+    {
+      "id": "NotoSansTifinagh",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinagh-Regular.ttf",
+      "sha256": "bfc82bcdf511b49a1579023610a7aeb98256b7d8dab5cb0c75d7a09eac2d5431",
+      "bytes": 59124
+    },
+    {
+      "id": "NotoSansTifinaghAPT",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghAPT-Regular.ttf",
+      "sha256": "40bae8e2cc27e2c43414aefa962d131f582a1ae0cb3d188a5a2816e3e2cd9a31",
+      "bytes": 59504
+    },
+    {
+      "id": "NotoSansTifinaghAdrar",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghAdrar-Regular.ttf",
+      "sha256": "294774b8fe10358943f7226b7189d7dc3ac8050aecdecb9f0f0fcd37fc4fd677",
+      "bytes": 59112
+    },
+    {
+      "id": "NotoSansTifinaghAgrawImazighen",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghAgrawImazighen-Regular.ttf",
+      "sha256": "e1a1b0c9f67445258245a6817244255f9e333a9ea015c9e3fe386c834c3f6b00",
+      "bytes": 59264
+    },
+    {
+      "id": "NotoSansTifinaghAhaggar",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghAhaggar-Regular.ttf",
+      "sha256": "d07a261ac704eaba550621d3b87de83ca9f425dbce8093c82c227034966e8aea",
+      "bytes": 59572
+    },
+    {
+      "id": "NotoSansTifinaghAir",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghAir-Regular.ttf",
+      "sha256": "0df9b5674450a5d1441dbfffba44cda8abc9eef3e9fb62ef0c5d4e94527e6998",
+      "bytes": 59560
+    },
+    {
+      "id": "NotoSansTifinaghAzawagh",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghAzawagh-Regular.ttf",
+      "sha256": "8afdb61b7e26751e5b4dc005c64db9aae087448c97979d7cfe722cf275be9cab",
+      "bytes": 59700
+    },
+    {
+      "id": "NotoSansTifinaghGhat",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghGhat-Regular.ttf",
+      "sha256": "8381ce8c7fe1e38512f8d56bc43b7d11c01906b752ec432e3e6a3ebd207381f3",
+      "bytes": 59076
+    },
+    {
+      "id": "NotoSansTifinaghHawad",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghHawad-Regular.ttf",
+      "sha256": "3c638cdf4fcbd521ee447908658b506f6723364cc70c7061e1901530bf8a6528",
+      "bytes": 59368
+    },
+    {
+      "id": "NotoSansTifinaghRhissaIxa",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghRhissaIxa-Regular.ttf",
+      "sha256": "4014faf429098157a7fd24b0f30117cd648703a8255e53804236a8e9d5c05c57",
+      "bytes": 59372
+    },
+    {
+      "id": "NotoSansTifinaghSIL",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghSIL-Regular.ttf",
+      "sha256": "f3c641efef229829047c95431660c6c3443419d3010d93345963c6deb07db89d",
+      "bytes": 59640
+    },
+    {
+      "id": "NotoSansTifinaghTawellemmet",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTifinagh/unhinted/ttf/NotoSansTifinaghTawellemmet-Regular.ttf",
+      "sha256": "6d203c61f7eb2f2b6a45d3dfc454155b1d0cd0592b33ac2794e6a041cd071d9d",
+      "bytes": 59652
+    },
+    {
+      "id": "NotoSansTirhuta",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansTirhuta/unhinted/ttf/NotoSansTirhuta-Regular.ttf",
+      "sha256": "3e3afdd9e75a3170565686f97d9b2024b77ef471000527275949a051c124011b",
+      "bytes": 70044
+    },
+    {
+      "id": "NotoSansUgaritic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansUgaritic/unhinted/ttf/NotoSansUgaritic-Regular.ttf",
+      "sha256": "971c2b4cc83996eb42b69f4da755f5f17abbf7de809edcf2dd97904d84899fb1",
+      "bytes": 6968
+    },
+    {
+      "id": "NotoSansVai",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansVai/unhinted/ttf/NotoSansVai-Regular.ttf",
+      "sha256": "ea03a953e2c578c56e17c5baa2e717e9ef0218ccb4ab221c11ec0604814377b3",
+      "bytes": 54956
+    },
+    {
+      "id": "NotoSansVithkuqi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansVithkuqi/unhinted/ttf/NotoSansVithkuqi-Regular.ttf",
+      "sha256": "599b581fdd5456aec9330bbb39a6f4ef72296c8e321dd87894868188b14bf894",
+      "bytes": 18500
+    },
+    {
+      "id": "NotoSansWancho",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansWancho/unhinted/ttf/NotoSansWancho-Regular.ttf",
+      "sha256": "01668a00c1c7a3a65f6269c27c3295c09aa714a7677914bba137ebf18e7918a7",
+      "bytes": 18400
+    },
+    {
+      "id": "NotoSansWarangCiti",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansWarangCiti/unhinted/ttf/NotoSansWarangCiti-Regular.ttf",
+      "sha256": "faac53f5072d5b682f347c620d30068530a707a032c127359b6c55647700f3aa",
+      "bytes": 27268
+    },
+    {
+      "id": "NotoSansYi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansYi/unhinted/ttf/NotoSansYi-Regular.ttf",
+      "sha256": "ab2c82578a368ad99e08ec4b299303c7f16830768df7278605d382fa1d0ee14b",
+      "bytes": 182988
+    },
+    {
+      "id": "NotoSansZanabazarSquare",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSansZanabazarSquare/unhinted/ttf/NotoSansZanabazarSquare-Regular.ttf",
+      "sha256": "52f57958db04b118f4e8a61ab19d0a8da4cd3a29421fbce9e04f8a463ee1fc0b",
+      "bytes": 20548
+    },
+    {
+      "id": "NotoSerif",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerif/unhinted/ttf/NotoSerif-Regular.ttf",
+      "sha256": "a15cfbbc1539d707115111d672d590a3d70d4f74b4c0a315956da20ae19a14e1",
+      "bytes": 482540
+    },
+    {
+      "id": "NotoSerifAhom",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifAhom/unhinted/ttf/NotoSerifAhom-Regular.ttf",
+      "sha256": "8153650d7fc1362a40b6cb355291e1d2718d82835790cd542a2521cba53c8fd4",
+      "bytes": 21212
+    },
+    {
+      "id": "NotoSerifArmenian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifArmenian/unhinted/ttf/NotoSerifArmenian-Regular.ttf",
+      "sha256": "0389b99b254cbf69b983d8a275a2f3097bc4625a795af45dd6a22a2789e1037c",
+      "bytes": 18812
+    },
+    {
+      "id": "NotoSerifBalinese",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifBalinese/unhinted/ttf/NotoSerifBalinese-Regular.ttf",
+      "sha256": "8282b492a229638518fc586cf55cfe3751ca68f61feb56c89d6bff48607719eb",
+      "bytes": 53872
+    },
+    {
+      "id": "NotoSerifBengali",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifBengali/unhinted/ttf/NotoSerifBengali-Regular.ttf",
+      "sha256": "bb5cc3ffa1d1b1f1adfe2c4c96af5c768882b594263c428e03046bdaebf83c26",
+      "bytes": 193872
+    },
+    {
+      "id": "NotoSerifDevanagari",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifDevanagari/unhinted/ttf/NotoSerifDevanagari-Regular.ttf",
+      "sha256": "565948535503fba5ec4989d9fad14e8c3056b998b1133e2e05d664a73b517007",
+      "bytes": 207984
+    },
+    {
+      "id": "NotoSerifDisplay",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifDisplay/unhinted/ttf/NotoSerifDisplay-Regular.ttf",
+      "sha256": "df76eaf34df2e47d5abd59e6d8eb328ae590fd0d0675f5d4b32a1227ab1dcee7",
+      "bytes": 471368
+    },
+    {
+      "id": "NotoSerifDivesAkuru",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifDivesAkuru/unhinted/ttf/NotoSerifDivesAkuru-Regular.ttf",
+      "sha256": "330cbe918a0cf52cc3e1eaa27114a077466d680af7819867b85cb27b64a2b07d",
+      "bytes": 302744
+    },
+    {
+      "id": "NotoSerifDogra",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifDogra/unhinted/ttf/NotoSerifDogra-Regular.ttf",
+      "sha256": "f2a5287a3b9d0a9a833c80b6c037fc998bc70544ee5f91f0245869013e171ae3",
+      "bytes": 28800
+    },
+    {
+      "id": "NotoSerifEthiopic",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifEthiopic/unhinted/ttf/NotoSerifEthiopic-Regular.ttf",
+      "sha256": "f979adee4e2c6cbee91c024ead9f72f18400cf4644d353a42fd06d964cb87dcc",
+      "bytes": 209772
+    },
+    {
+      "id": "NotoSerifGeorgian",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifGeorgian/unhinted/ttf/NotoSerifGeorgian-Regular.ttf",
+      "sha256": "851a5eddf676d16d73ef08b9d35c0af2775fe19f9f1995f8bfe4956bdd9fe04b",
+      "bytes": 61916
+    },
+    {
+      "id": "NotoSerifGrantha",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifGrantha/unhinted/ttf/NotoSerifGrantha-Regular.ttf",
+      "sha256": "4406e380747ccbab518cdb6ed2737a351c3f52393620b0ee5cec08734358d86f",
+      "bytes": 296984
+    },
+    {
+      "id": "NotoSerifGujarati",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifGujarati/unhinted/ttf/NotoSerifGujarati-Regular.ttf",
+      "sha256": "162aa1a06518d36fe016ad83e7ec4a189ca69f8b516eb2eebaa4516182b86406",
+      "bytes": 101120
+    },
+    {
+      "id": "NotoSerifGurmukhi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifGurmukhi/unhinted/ttf/NotoSerifGurmukhi-Regular.ttf",
+      "sha256": "00435bb0255a87db60f117251c6a25b4f7ccea2138414155eb90dc2b0dc7c0cd",
+      "bytes": 36536
+    },
+    {
+      "id": "NotoSerifHebrew",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifHebrew/unhinted/ttf/NotoSerifHebrew-Regular.ttf",
+      "sha256": "193c639291b424c66c9074d2dfa21c985b5fbceda545603f8745ca1a9f8951cc",
+      "bytes": 19108
+    },
+    {
+      "id": "NotoSerifHentaigana",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifHentaigana/unhinted/ttf/NotoSerifHentaigana-Regular.ttf",
+      "sha256": "2231394c949fa1cea871d943cf7ff7c0552308fca9067d70b88a533351d6bb5c",
+      "bytes": 150320
+    },
+    {
+      "id": "NotoSerifKannada",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifKannada/unhinted/ttf/NotoSerifKannada-Regular.ttf",
+      "sha256": "e35d4e41f063855dca3351e43abaa84eb909eb4a211ac0ab7a076affe569339c",
+      "bytes": 133736
+    },
+    {
+      "id": "NotoSerifKhitanSmallScript",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifKhitanSmallScript/unhinted/ttf/NotoSerifKhitanSmallScript-Regular.ttf",
+      "sha256": "53434afa8313ffb127235c1b0b9a9eb396b8f831a75bcf111e8887eff20ebf57",
+      "bytes": 609184
+    },
+    {
+      "id": "NotoSerifKhmer",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifKhmer/unhinted/ttf/NotoSerifKhmer-Regular.ttf",
+      "sha256": "e6dda7132b87263b49ba46db2153e9c3abab788ca19b24b30560ea3abc049aa4",
+      "bytes": 95928
+    },
+    {
+      "id": "NotoSerifKhojki",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifKhojki/unhinted/ttf/NotoSerifKhojki-Regular.ttf",
+      "sha256": "4f13c6c67426c458dcef1f2e07ff04311985857f848962698377f85945ed4fd6",
+      "bytes": 106488
+    },
+    {
+      "id": "NotoSerifLao",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifLao/unhinted/ttf/NotoSerifLao-Regular.ttf",
+      "sha256": "c58bad9cc92a5ae1502a954f0671f44cfb4d28875d6750e7a0739dea0d38eb0e",
+      "bytes": 26376
+    },
+    {
+      "id": "NotoSerifMakasar",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifMakasar/unhinted/ttf/NotoSerifMakasar-Regular.ttf",
+      "sha256": "59f80cf2f403ada5b38d0d03fa59bf68acdc48165dc35b39817bcaf951f1015a",
+      "bytes": 6944
+    },
+    {
+      "id": "NotoSerifMalayalam",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifMalayalam/unhinted/ttf/NotoSerifMalayalam-Regular.ttf",
+      "sha256": "2bcff462b44ebe9e22992d5edbb4b453c338caa118c055ccb4e5925566070d66",
+      "bytes": 74212
+    },
+    {
+      "id": "NotoSerifMyanmar",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifMyanmar/unhinted/ttf/NotoSerifMyanmar-Regular.ttf",
+      "sha256": "bb3a381c17751aa169595ae8be13fde604463e3587ae466c31f34a833e10e2a5",
+      "bytes": 205748
+    },
+    {
+      "id": "NotoSerifNPHmong",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifNPHmong/unhinted/ttf/NotoSerifNPHmong-Regular.ttf",
+      "sha256": "e9b64378074f005e35de1a563a05aba00c2de83116d5e923532a77b2d9a37b2f",
+      "bytes": 15072
+    },
+    {
+      "id": "NotoSerifOldUyghur",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifOldUyghur/unhinted/ttf/NotoSerifOldUyghur-Regular.ttf",
+      "sha256": "43dbcace1c1cdaea006a6d7d7c9d9b3486125b438b0419d1408ca64c93cc7539",
+      "bytes": 20404
+    },
+    {
+      "id": "NotoSerifOriya",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifOriya/unhinted/ttf/NotoSerifOriya-Regular.ttf",
+      "sha256": "b5c914dabacc2ec089401adfcf8830eb1f34ae3a62f0cf2e570461a3e847b9b7",
+      "bytes": 148896
+    },
+    {
+      "id": "NotoSerifOttomanSiyaq",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifOttomanSiyaq/unhinted/ttf/NotoSerifOttomanSiyaq-Regular.ttf",
+      "sha256": "bbbe47b57cd6145e63d084e2b62d84c6dcfde2fbce9cc3512c48c367ced44654",
+      "bytes": 19220
+    },
+    {
+      "id": "NotoSerifSinhala",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifSinhala/unhinted/ttf/NotoSerifSinhala-Regular.ttf",
+      "sha256": "06dc06fecacb12d5193ace92dca1ee24002cd4e3a31d2b124aba8026b0b42aa4",
+      "bytes": 193304
+    },
+    {
+      "id": "NotoSerifTamil",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifTamil/unhinted/ttf/NotoSerifTamil-Regular.ttf",
+      "sha256": "3b166155947b5f620bf0aa5ad102a398408a9a31cbe2e8b58ad0f947276adf26",
+      "bytes": 51508
+    },
+    {
+      "id": "NotoSerifTangut",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifTangut/unhinted/ttf/NotoSerifTangut-Regular.ttf",
+      "sha256": "edcc5b7727fa4d1345d2fca93305c8b90ad88d4975152d4aed79564c9117db91",
+      "bytes": 3065476
+    },
+    {
+      "id": "NotoSerifTelugu",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifTelugu/unhinted/ttf/NotoSerifTelugu-Regular.ttf",
+      "sha256": "c99f4a0f8bfc6cf1cf72a6995d63f29deacc3070668088593a7a88182a6d8bd5",
+      "bytes": 192996
+    },
+    {
+      "id": "NotoSerifThai",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifThai/unhinted/ttf/NotoSerifThai-Regular.ttf",
+      "sha256": "538df2b3033522cd48bff18d536f76db60ec04e8cb3f44028fa92dbee8e6e125",
+      "bytes": 26496
+    },
+    {
+      "id": "NotoSerifTibetan",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifTibetan/unhinted/ttf/NotoSerifTibetan-Regular.ttf",
+      "sha256": "7292b2c76cf5c9b81e5362d88e0cb0a16b9d92827f86f945203014b049fd2fc5",
+      "bytes": 609640
+    },
+    {
+      "id": "NotoSerifTodhri",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifTodhri/unhinted/ttf/NotoSerifTodhri-Regular.ttf",
+      "sha256": "4ded6e98752b13363cf01dad267efdd9481d556b9f2d5291ddcbda7fc7342727",
+      "bytes": 11104
+    },
+    {
+      "id": "NotoSerifToto",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifToto/unhinted/ttf/NotoSerifToto-Regular.ttf",
+      "sha256": "d0e8fa7de36fec052bb7074b8d705acf5bf2d451148610f4c2f97214b7e759b2",
+      "bytes": 7000
+    },
+    {
+      "id": "NotoSerifVithkuqi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifVithkuqi/unhinted/ttf/NotoSerifVithkuqi-Regular.ttf",
+      "sha256": "b658261bc49ce52e3be76061a443e1593bcd608dcd681762e4e60ba64192e0a4",
+      "bytes": 19044
+    },
+    {
+      "id": "NotoSerifYezidi",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoSerifYezidi/unhinted/ttf/NotoSerifYezidi-Regular.ttf",
+      "sha256": "b222255b6e83acf0569734741b143eb0bfc3b0f7b18e06f31cf7cc9e52d251e7",
+      "bytes": 12116
+    },
+    {
+      "id": "NotoTraditionalNushu",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoTraditionalNushu/unhinted/ttf/NotoTraditionalNushu-Regular.ttf",
+      "sha256": "7f7dce432917fe77f47d607119fa344b6e7cc75a103b3ef31cfe746f25c90ebe",
+      "bytes": 104660
+    },
+    {
+      "id": "NotoZnamennyMusicalNotation",
+      "url": "https://raw.githubusercontent.com/notofonts/notofonts.github.io/ccd96e1c95d1142fe8ea2247042cb80a351b01ea/fonts/NotoZnamennyMusicalNotation/unhinted/ttf/NotoZnamennyMusicalNotation-Regular.ttf",
+      "sha256": "b6ed2a11d2a653e14137a35e4c6fdaf5093434ac12964791ee195270828e7508",
+      "bytes": 45376
+    },
+    {
+      "id": "NotoSansCJKjp-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/Japanese/NotoSansCJKjp-Regular.otf",
+      "sha256": "68a3fc98800b2a27b371f2fb79991daf3633bd89309d4ffaa6946fd587f375b5",
+      "bytes": 16467736
+    },
+    {
+      "id": "NotoSansCJKkr-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/Korean/NotoSansCJKkr-Regular.otf",
+      "sha256": "6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a",
+      "bytes": 16433112
+    },
+    {
+      "id": "NotoSansCJKsc-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/SimplifiedChinese/NotoSansCJKsc-Regular.otf",
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b",
+      "bytes": 16437364
+    },
+    {
+      "id": "NotoSansCJKtc-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/TraditionalChinese/NotoSansCJKtc-Regular.otf",
+      "sha256": "dce08bd4fd91aa8aa76ed8fea4b694c2dfb8550f67871e326843212ddbeb88b4",
+      "bytes": 16435884
+    },
+    {
+      "id": "NotoSansCJKhk-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/TraditionalChineseHK/NotoSansCJKhk-Regular.otf",
+      "sha256": "97c937514d645eae90415d30ba025e08a94d5bdffdc627404864f90aa0c7d83b",
+      "bytes": 16427604
+    },
+    {
+      "id": "NotoSerifCJKjp-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/Japanese/NotoSerifCJKjp-Regular.otf",
+      "sha256": "d9854c7a8ef170b5a7932558856fd64eb8de0b007cd823fed6f9f514ad2803d3",
+      "bytes": 24573864
+    },
+    {
+      "id": "NotoSerifCJKkr-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/Korean/NotoSerifCJKkr-Regular.otf",
+      "sha256": "77b4b741f864d27f15e90f275b17106dde90b2ad28f82bab72dc95805db5fb42",
+      "bytes": 24539640
+    },
+    {
+      "id": "NotoSerifCJKsc-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/SimplifiedChinese/NotoSerifCJKsc-Regular.otf",
+      "sha256": "2a2eae2628df83556c54018c41e20fa532c1b862c5256ae8b3f23feb918d12ca",
+      "bytes": 24543080
+    },
+    {
+      "id": "NotoSerifCJKtc-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/TraditionalChinese/NotoSerifCJKtc-Regular.otf",
+      "sha256": "234301038e76e7c35c43113785024700c4e4fe7bdce1d1fbbc42fca7e6683798",
+      "bytes": 24541904
+    },
+    {
+      "id": "NotoSerifCJKhk-Regular",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Serif/OTF/TraditionalChineseHK/NotoSerifCJKhk-Regular.otf",
+      "sha256": "e687d5674d83acf62d1264da5d002c5401363418abb98dca0836d38d88953708",
+      "bytes": 24533712
+    },
+    {
+      "id": "NotoColorEmoji",
+      "url": "https://raw.githubusercontent.com/googlefonts/noto-emoji/e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e/2D/fonts/NotoColorEmoji.ttf",
+      "sha256": "15671215ab769fdc7162a045d56fd7d7e477c51b04e6b3c761d914d8fdd6cc44",
+      "bytes": 10730124
+    },
+    {
+      "id": "unifont",
+      "url": "https://unifoundry.com/pub/unifont/unifont-18.0.01/font-builds/unifont-18.0.01.otf",
+      "sha256": "88d0a14d4aa9a96419720b39ba5da921a59560d76d4ec7d523acc06ed85cd3c2",
+      "bytes": 5320148
+    },
+    {
+      "id": "unifont_upper",
+      "url": "https://unifoundry.com/pub/unifont/unifont-18.0.01/font-builds/unifont_upper-18.0.01.otf",
+      "sha256": "472201e45a050bff4c7658208b8c73e34ebce3764b287a5a46c7774038ef9391",
+      "bytes": 5954156
+    },
+    {
+      "id": "dejavu-2.37",
+      "url": "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.tar.bz2",
+      "sha256": "fa9ca4d13871dd122f61258a80d01751d603b4d3ee14095d65453b4e846e17d7",
+      "bytes": 5429777
+    },
+    {
+      "id": "freefont-20120503",
+      "url": "https://ftp.gnu.org/gnu/freefont/freefont-ttf-20120503.zip",
+      "sha256": "7c85baf1bf82a1a1845d1322112bc6ca982221b484e3b3925022e25b5cae89af",
+      "bytes": 6076197
+    },
+    {
+      "id": "jigmo-20250912",
+      "url": "https://kamichikoichi.github.io/jigmo/Jigmo-20250912.zip",
+      "sha256": "5744c7386d129475d87607ca66d043c8793c65448adeaedc921b6931890e5d0b",
+      "bytes": 35559738
+    },
+    {
+      "id": "babelstone-han-16.0.3",
+      "url": "https://www.babelstone.co.uk/Fonts/Download/BabelStoneHan-16.0.3.zip",
+      "sha256": "6a928e436ee52d1857c32b5e4d5e71f4f0a9d13ccf660fc4f1ff08df930e12dc",
+      "bytes": 20565576
+    },
+    {
+      "id": "EgyptologyExtended",
+      "url": "https://raw.githubusercontent.com/LumabyteCo/egyptology-extended-font/015a15f0e8ddced9061fd2f715ca49f5407d4d91/fonts/EgyptologyExtended.ttf",
+      "sha256": "ba17bdd051b1d67852f7fee996d1cd85567bc3d02ab66752c8fb2c8a2163f4ec",
+      "bytes": 1155252
+    },
+    {
+      "id": "SealSans-Regular-v1",
+      "url": "https://raw.githubusercontent.com/Ghimist/seal-sans/9372f0813770a605ec5ee068fc48660b231b3427/SealSans-Regular_v1.otf",
+      "sha256": "f4bd309fd421b158da4a18295354a21efc12090b54c30601da705dd4db4c6d63",
+      "bytes": 5793816
+    },
+    {
+      "id": "charis-7.000",
+      "url": "https://software.sil.org/downloads/r/charis/Charis-7.000.zip",
+      "sha256": "e3237b1303c5d31af8f59b1d1914886c5e873b77c71390e4742fb3bc1c187666",
+      "bytes": 10497481
+    },
+    {
+      "id": "ucd-DerivedAge.txt",
+      "url": "https://www.unicode.org/Public/18.0.0/ucd/DerivedAge.txt",
+      "sha256": "58b04334e3a31f9612694bbc3f6bff4a302b7d424565bca9c47e30aa74f8dbac",
+      "bytes": 142568
+    },
+    {
+      "id": "FairfaxHD",
+      "url": "https://raw.githubusercontent.com/kreativekorp/open-relay/e4b81241e8c7269a91c0bd865cf5c9e7208fbada/FairfaxHD/FairfaxHD.ttf",
+      "sha256": "8ed5c84fa50fd02f145026da522b30519b1637222372d1b47b721cd021fc79ce",
+      "bytes": 3190724
+    },
+    {
+      "id": "TangutYinchuan",
+      "url": "https://www.babelstone.co.uk/Fonts/Download/TangutYinchuan.ttf",
+      "sha256": "7108cf8ce0f0dd8ced9dc1990730bf9e192ab1d0f92f3d76ca7e1151c63215c0",
+      "bytes": 9751032
+    },
+    {
+      "id": "apple-macos/ADTNumeric.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "cbfaa43ad74fb9ac490e38f98a78a5c30ed915d90731329b0bfc4fa71f0afd49",
+      "bytes": 3280104
+    },
+    {
+      "id": "apple-macos/Apple Braille Outline 6 Dot.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3477edb086bdcb43689f704069d623536249942246f0dfacfc9479f57b8e79fd",
+      "bytes": 264360
+    },
+    {
+      "id": "apple-macos/Apple Braille Outline 8 Dot.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ccb01a1316b9fab1709675a24c670ce7837172835bbc229fdd0762d136cdedbe",
+      "bytes": 281428
+    },
+    {
+      "id": "apple-macos/Apple Braille Pinpoint 6 Dot.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "54b06419d15290d087acd205a285ed6a86fb4df7778abc2bc9dd883d38338235",
+      "bytes": 183528
+    },
+    {
+      "id": "apple-macos/Apple Braille Pinpoint 8 Dot.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7744380399c35dc664333b6100e0df53f46288e9349a432486aab4a7c158f262",
+      "bytes": 190116
+    },
+    {
+      "id": "apple-macos/Apple Braille.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b4889418d388cebcadf2e5928e70570cc6aaa76b998ca372f0ea37961b32dfe8",
+      "bytes": 136404
+    },
+    {
+      "id": "apple-macos/Apple Color Emoji.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "12bc8221a908c5bcf05f0fce940d3c3f6e9d09d8d806ffe31a969b4ac9be8f9e",
+      "bytes": 192120460
+    },
+    {
+      "id": "apple-macos/Apple Symbols.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "87799cb668ba3738db915715aa4ef30ec10972067e600efae04063cf1efc409b",
+      "bytes": 895440
+    },
+    {
+      "id": "apple-macos/AppleSDGothicNeo.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f2fe69e39644d04a9484802044836ba9d4a950aed2e32b006a3e16d5df5f49f1",
+      "bytes": 55323000
+    },
+    {
+      "id": "apple-macos/AquaKana.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "01ffcd7ec349e568f054a2e7d7d0a06d006f81861c6231ca20a35d7569a164e0",
+      "bytes": 18486872
+    },
+    {
+      "id": "apple-macos/ArialHB.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c95d9875c025f2534ea0aeb443af1e1dbdb5a0edc4e6ce17882b5f12ced064e8",
+      "bytes": 188236
+    },
+    {
+      "id": "apple-macos/Avenir Next Condensed.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c82b6c7ebe0c4a41634eaf15df6e39cb8c95a2bad385b0ce8939326b19908bd7",
+      "bytes": 3239976
+    },
+    {
+      "id": "apple-macos/Avenir Next.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e03834eefdb4164c2af2c35b985285eb4fd67ff8db54aaed3bdc6d9c8b7f3c3c",
+      "bytes": 4941620
+    },
+    {
+      "id": "apple-macos/Avenir.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "842abd5d43ed8497f4f298b893c5c5bfb01a0bb3e10eb6363601529cd043b474",
+      "bytes": 1595024
+    },
+    {
+      "id": "apple-macos/CJKSymbolsFallback.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "289d207d6a8404c6ed7c8a8e88b30cbef6b748bcc2cc34c43ec574493c5b55e3",
+      "bytes": 768520
+    },
+    {
+      "id": "apple-macos/Courier.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "76cdad2ba4e8774223ed6184f530570261f9f7fb9beb5c68368e09234c0273ec",
+      "bytes": 1135004
+    },
+    {
+      "id": "apple-macos/DecoTypeNastaleeqUrdu.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c97cbfc423fc5de7767d8b4bba3d4c00f930cfc95c87e2064b4cdff0112ff47f",
+      "bytes": 32825448
+    },
+    {
+      "id": "apple-macos/GeezaPro.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "42e4302bb33db1869a17f1af1e7e9bd6d1b594c0292c683b51d4db0ea5d1206a",
+      "bytes": 967408
+    },
+    {
+      "id": "apple-macos/Geneva.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "dee335fb5951cd4793e2cc6640061460d5531df578e6e987d444ffa7be4b4496",
+      "bytes": 731672
+    },
+    {
+      "id": "apple-macos/Helvetica.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "658718d77497145281cb0ec45ff2fe7c6e18062b2a38f837d0d792d9be3a9ba3",
+      "bytes": 2338064
+    },
+    {
+      "id": "apple-macos/HelveticaNeue.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f589d70dc741853a336fcb0d11aa1505d1646898fba2340a0f5999ea920406b3",
+      "bytes": 4400792
+    },
+    {
+      "id": "apple-macos/Hiragino Sans GB.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ca1e9bf621f13ddc4800bfb74d0124571dfc25a1678a28d6e7dbcf39fad2504a",
+      "bytes": 23510656
+    },
+    {
+      "id": "apple-macos/Keyboard.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "104d92bff72078a3da8baf60edde86961a1d893d14f18e56da7ed4bc652fc7eb",
+      "bytes": 56288
+    },
+    {
+      "id": "apple-macos/Kohinoor.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8d3cac28dc2be8e4b7ea63216d01f3d69e4ea52a97f9a9fcba4c390d36cdcece",
+      "bytes": 1379960
+    },
+    {
+      "id": "apple-macos/KohinoorBangla.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8328ef6f594d53c3569cb13fb72caccd55d23489bf8921f90e08cc56fae6881b",
+      "bytes": 686728
+    },
+    {
+      "id": "apple-macos/KohinoorGujarati.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7b50bbe90a7683badb836b0b63737804b9cebd9731e657c49931689713b8a35f",
+      "bytes": 530552
+    },
+    {
+      "id": "apple-macos/KohinoorTelugu.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "cb001e3adcea787a9a877fd1ee3a3e974faf807048628e1a5e0798b04da725e6",
+      "bytes": 656784
+    },
+    {
+      "id": "apple-macos/LucidaGrande.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c481b239979bf0a4912949494e00568fba253fd6265a9770c8721e7989e111ca",
+      "bytes": 3180996
+    },
+    {
+      "id": "apple-macos/MarkerFelt.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8331c4548ec81e452fecc3b7f58fb06fbced9ff55b430531a8d6347b74ace0dd",
+      "bytes": 619536
+    },
+    {
+      "id": "apple-macos/Menlo.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f2d400484a6aace67980730ec0a9ef24ce9e535a2604f118e6fdc2510021b85f",
+      "bytes": 2134132
+    },
+    {
+      "id": "apple-macos/Monaco.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c6e990f6429fae28eb85321375dd335252f1122aa64c19fec553619a140724ef",
+      "bytes": 529148
+    },
+    {
+      "id": "apple-macos/MuktaMahee.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "dad1e665e849ac5542a5d511928704c30f8f6f3993db696c3275f89141b2107d",
+      "bytes": 846728
+    },
+    {
+      "id": "apple-macos/NewYork.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2f2a5b0e743cd2d954dd407a7281dc0e974d93144c0cdbbc82fee43c32caa926",
+      "bytes": 721580
+    },
+    {
+      "id": "apple-macos/NewYorkItalic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "50e4d2aefa6646bda9c213b915dc130d51e11d21dd8ceef67d5d23e2254431e2",
+      "bytes": 597572
+    },
+    {
+      "id": "apple-macos/Noteworthy.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "813c7f349f0418a9868207953d7a46f851115834c9d82d6afcc0c972471e15b3",
+      "bytes": 552564
+    },
+    {
+      "id": "apple-macos/NotoNastaliq.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "76029678b8871a8dfb1828a541cbc575177e903375429faf76d5a2e41a4a4202",
+      "bytes": 913612
+    },
+    {
+      "id": "apple-macos/NotoSansArmenian.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e43cd3d737e24a0e2239cd6fb79f506b0c8de340ed257825746d76d3a6e89428",
+      "bytes": 155048
+    },
+    {
+      "id": "apple-macos/NotoSansKannada.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "aab64aab40f235225ad73e7ea5e3183f4c23cdd93ee9a2b0e2e544182abdcca5",
+      "bytes": 1034352
+    },
+    {
+      "id": "apple-macos/NotoSansMyanmar.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "60eaf87de13f5337d702c44796672d8a8047187db489c1051fe7044d5d44193a",
+      "bytes": 1693624
+    },
+    {
+      "id": "apple-macos/NotoSansOriya.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b26490963ef7c04a8ac84c8522d2f9031b9ce27514f0d118d6bbd13b14774166",
+      "bytes": 315292
+    },
+    {
+      "id": "apple-macos/NotoSerifMyanmar.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "0e5bef6a9ae9a989e95da5d999a9a34d894c5de454938293b8ec06fe13b1cf6b",
+      "bytes": 1134164
+    },
+    {
+      "id": "apple-macos/Optima.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4f663009136c7debd4fe9aae1ca18d10b0826e54705f776ad271113d9558ab8b",
+      "bytes": 247824
+    },
+    {
+      "id": "apple-macos/Palatino.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6fe36c18e44734ce15e939083445adf81a0fd87f90e9eed0ceadedb935682657",
+      "bytes": 1769580
+    },
+    {
+      "id": "apple-macos/SFArabic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "12b5b582315dbddf432e467f677b28a87597f474322bfba7d62bc1468a79ce72",
+      "bytes": 719968
+    },
+    {
+      "id": "apple-macos/SFArabicRounded.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2bbda7767d5b053335be80ee78bd6f81f3dcbb0a7144f01107f2596e79ca43c2",
+      "bytes": 783568
+    },
+    {
+      "id": "apple-macos/SFArmenian.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "0be96891f71de37d0bf3d0504c613ad852d0c04d9638dc7ba90f86a670d73904",
+      "bytes": 86792
+    },
+    {
+      "id": "apple-macos/SFArmenianRounded.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8ffc57e8d7c999f628de49e4a41d2590b7e3df0c99a0f0814c911ac95b61949a",
+      "bytes": 62640
+    },
+    {
+      "id": "apple-macos/SFCamera.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2f09c510f0c17e8c36cdc1b3f6a2129f2de8ee93c8868d476aad4943f85f169a",
+      "bytes": 117636
+    },
+    {
+      "id": "apple-macos/SFCompact.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "044376cb245cb5cdd5c027c22e2854acfe648a2c8e885ecc4a12fdd84df88fee",
+      "bytes": 1896040
+    },
+    {
+      "id": "apple-macos/SFCompactItalic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "489239f84611e546b7a09987bf46142ff8099337ae7d3affa2fb59bfadb1cff7",
+      "bytes": 1012892
+    },
+    {
+      "id": "apple-macos/SFCompactRounded.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2db181772dd231c68de536d7f1616d77a093cf932fc28582c6636623b2c61559",
+      "bytes": 1080280
+    },
+    {
+      "id": "apple-macos/SFGeorgian.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "82e01b8585b45b13c37e6cd6d6da36245920aaf09eb459d69888360859baeefe",
+      "bytes": 94468
+    },
+    {
+      "id": "apple-macos/SFGeorgianRounded.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "aeddbaf1ed81ffe2d2fbef48bb51775a33a09e37a87295305d9cf80e091403e1",
+      "bytes": 61664
+    },
+    {
+      "id": "apple-macos/SFHebrew.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2e69b72734e849f93ca52c560ccf4bd7d70633bd36c7cdb5f8f59cb3b4d91462",
+      "bytes": 62376
+    },
+    {
+      "id": "apple-macos/SFHebrewRounded.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e94c0202d94163e6bbcb927b076a585a73d9de0078a8e8e0994417e24375acbe",
+      "bytes": 55100
+    },
+    {
+      "id": "apple-macos/SFIndia.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d9aef9fb79aaf5aa0c96df2593c1f461b24ab8c74695baded690a69949d15ce9",
+      "bytes": 2269684
+    },
+    {
+      "id": "apple-macos/SFNS.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "44890958f3e0b997028121ed7c7a789f3f5cce227c7a93ce8f86ec0db26da571",
+      "bytes": 7872432
+    },
+    {
+      "id": "apple-macos/SFNSItalic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8f6a91c3340283d7653eda26bdc8ef9a3e7b31b5af20175348e9372d6836ffa0",
+      "bytes": 1057128
+    },
+    {
+      "id": "apple-macos/SFNSMono.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fc99d1608690ab5f2e1f78af9fbd4ef9ffef61f3eef36ceeea3ac3c844e652d4",
+      "bytes": 218796
+    },
+    {
+      "id": "apple-macos/SFNSMonoItalic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "80d965ef0603bd0bfa8617c3894c10a2f111d8a5952298d84bd6f8ab807f4ae1",
+      "bytes": 195864
+    },
+    {
+      "id": "apple-macos/SFNSRounded.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9ccd6c9a1ec93ac11092a28c30b71c442269f0a8539704d975f8e09e677f4f74",
+      "bytes": 1773444
+    },
+    {
+      "id": "apple-macos/STHeiti Light.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c2ce69631a8100d77e8174da0f719ceff8c6196b9b2abba35e8feb4114138cc5",
+      "bytes": 55775164
+    },
+    {
+      "id": "apple-macos/STHeiti Medium.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2d37f927fb4c24a2ba4d318b903a607f6b7ad4e5f365c26aba6aaccb84038beb",
+      "bytes": 55746488
+    },
+    {
+      "id": "apple-macos/Supplemental/Academy Engraved LET Fonts.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a32e7b807a097f0e5135b9ceea01d94ef2f5acbf226ab2a35ee65e8853ab9d84",
+      "bytes": 105016
+    },
+    {
+      "id": "apple-macos/Supplemental/Al Nile.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b227b90e147e80e5429d8f6319cac83435e23c9b73ca09184d033199868adcd3",
+      "bytes": 124128
+    },
+    {
+      "id": "apple-macos/Supplemental/Al Tarikh.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fc0affe5ef1fd4bda9f6fe7013d02de75b6f1ad245f0ea6d66e5361eaf61520e",
+      "bytes": 76228
+    },
+    {
+      "id": "apple-macos/Supplemental/AlBayan.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a590ed12460ff4ba996c8be9f64ef20c1732db31042b332c590d821a6d22e65b",
+      "bytes": 180172
+    },
+    {
+      "id": "apple-macos/Supplemental/AmericanTypewriter.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f0c17a42ecf6729b4112bb6c321b38063cbe05d70cb031dbce3cb6253c9bad20",
+      "bytes": 2405276
+    },
+    {
+      "id": "apple-macos/Supplemental/Andale Mono.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ca436a8f07f6699107542ebe19dcc9478f12aa666927699e9fa10115e7d2ee95",
+      "bytes": 109700
+    },
+    {
+      "id": "apple-macos/Supplemental/Apple Chancery.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "313160216cea40faec3c7c1cafff8c7585c038679a50d8a3d326d767e6732995",
+      "bytes": 332904
+    },
+    {
+      "id": "apple-macos/Supplemental/AppleGothic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "69071005e523e3a2bf276b35b0066f68a7ec0d942c860941ad188ef15ef69c51",
+      "bytes": 15253080
+    },
+    {
+      "id": "apple-macos/Supplemental/AppleMyungjo.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f7fc7fe54e30d1898a127e17c4debcdd6108a1f06775e983a57883f06a0ff692",
+      "bytes": 18757828
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Black.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7d7db3ad96a31373c1437c6ab14266f6605495544c8e663558b047521174c42e",
+      "bytes": 122556
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Bold Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "374b0190a9844343110d8f8ed1818117a4591803d022bbb2bd189d63a681e731",
+      "bytes": 558672
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d72db21f9242aedd6b917d8549ad5921766b24d5f8d0becfda2ff4c620b3c2e0",
+      "bytes": 750984
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ce1d2f1ab89db45f9796100eee960f5702a40e84c225c2b48c3ec3e81d153f98",
+      "bytes": 553284
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Narrow Bold Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "035cfb8b776e7ce27f4c0ea0dc3ca3ccf85c8da5d59595cecddf02de966fb985",
+      "bytes": 183932
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Narrow Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fcf34b330033e26c06e9bd466bea5a3e4b2f39272972275369beb7d8b257ed57",
+      "bytes": 184420
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Narrow Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f3d0827024939f01f134668c1d25709e56c5a085bd560e33dc598e86203d31d9",
+      "bytes": 184944
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Narrow.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9e1d881c4e43b51868f5e235ea5a12c838e23cc8df6277df1a3c94e158999826",
+      "bytes": 179492
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Rounded Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a74ea71c366f15c81f9ce00a757cefb938cda21c0d32e51037d9a038e5ebc14b",
+      "bytes": 49296
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial Unicode.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "876af2cd4854644e7f3e7feb2f688997fdb3343c6df6693611209c9dfb47ccec",
+      "bytes": 23278008
+    },
+    {
+      "id": "apple-macos/Supplemental/Arial.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9",
+      "bytes": 773236
+    },
+    {
+      "id": "apple-macos/Supplemental/Athelas.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "76964ac64d10daf427de8e7100e131198cc6530b46ee4afeb1f10b329b45d332",
+      "bytes": 2309724
+    },
+    {
+      "id": "apple-macos/Supplemental/Ayuthaya.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "166f04f5e8bdb2c12edc07ddf09f0c047080ec5245eaaf581f182a983e3acf48",
+      "bytes": 303740
+    },
+    {
+      "id": "apple-macos/Supplemental/Baghdad.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f3c671d0fc25a6667a7b238824cc31d35df64852938142bd98f058e6a7a83574",
+      "bytes": 105864
+    },
+    {
+      "id": "apple-macos/Supplemental/Bangla MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "19d92ccb8e85cc7d67b6fd224757c132498e881cef8e9ff94439fb76555ee3d8",
+      "bytes": 312452
+    },
+    {
+      "id": "apple-macos/Supplemental/Bangla Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ae4fdbf67dce1954357bfb4b1675036ec396a53a6180175fde6890b343865d93",
+      "bytes": 435872
+    },
+    {
+      "id": "apple-macos/Supplemental/Baskerville.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "049ec225cd13060da91d0042f304174c71854db38c71e70f84760f4b0f063d8a",
+      "bytes": 1340512
+    },
+    {
+      "id": "apple-macos/Supplemental/Beirut.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ffe6e03603dd9ad0e287c964a862714a6aa633b653f5230ebcedd20db10161ec",
+      "bytes": 78208
+    },
+    {
+      "id": "apple-macos/Supplemental/BigCaslon.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5e294b0e2a09c6d5b1e733409f47c8637b7293dd6267babf422a6bf5baee6b4f",
+      "bytes": 219236
+    },
+    {
+      "id": "apple-macos/Supplemental/Bodoni 72 OS.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8e8f40b73676298106d15718d29ab009c30c4a09e088b0b2389c73fdce034071",
+      "bytes": 229680
+    },
+    {
+      "id": "apple-macos/Supplemental/Bodoni 72 Smallcaps Book.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "cf1a7b78e653cf7b9d244fb60a651501d8444834fd019c1f593cf56e70cfd0fe",
+      "bytes": 79844
+    },
+    {
+      "id": "apple-macos/Supplemental/Bodoni 72.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f2137e4ea89f9cf8ac9738b620defede3f91a6cbb9492773180362344c99459f",
+      "bytes": 416160
+    },
+    {
+      "id": "apple-macos/Supplemental/Bodoni Ornaments.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "313f37652ae324ca2daac07f80eaa8e681aa3f0ce158fe679ee5dd60fa0809e7",
+      "bytes": 72360
+    },
+    {
+      "id": "apple-macos/Supplemental/Bradley Hand Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b94c10ed01e88fd8dbbee95485d3863a0719520e8637ae5a9a30cf485e18740d",
+      "bytes": 592244
+    },
+    {
+      "id": "apple-macos/Supplemental/Brush Script.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "28b58b7a1bab9fa76aeef353caed56918abcdef3385daeb569c75226618c7b1d",
+      "bytes": 222640
+    },
+    {
+      "id": "apple-macos/Supplemental/Chalkboard.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d29f52e3f43f7c7512695339feb0b5c6d8b865410ad960034887f092dbbc0033",
+      "bytes": 170252
+    },
+    {
+      "id": "apple-macos/Supplemental/ChalkboardSE.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "256d3dd291f0d2bd3379882e7fb9c8276fba219ea447a1073d2fce17690e0478",
+      "bytes": 524848
+    },
+    {
+      "id": "apple-macos/Supplemental/Chalkduster.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "0e9ed740bfbfcfef1a7f4333cd041771a9a5b67fbe85515e4d241b7213cf6a8d",
+      "bytes": 483152
+    },
+    {
+      "id": "apple-macos/Supplemental/Charter.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "58bb71a9ce92888987eb98d79818f95554903aa1c141936fd4b224b484e88265",
+      "bytes": 2096264
+    },
+    {
+      "id": "apple-macos/Supplemental/Cochin.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e33e500ebb133bb332076c3875b5eb7402442d5448dfbd37cca85ecac3ee3d2c",
+      "bytes": 1223340
+    },
+    {
+      "id": "apple-macos/Supplemental/Comic Sans MS Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c1d5060ad77da55f2fadfafda4e95bd6d78fbbb3a29178ff1389893d678fb400",
+      "bytes": 120120
+    },
+    {
+      "id": "apple-macos/Supplemental/Comic Sans MS.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a6f559bc059fe6d0e68826e2daee0db31194844ed6145d5cc31a610c4e2700d2",
+      "bytes": 135484
+    },
+    {
+      "id": "apple-macos/Supplemental/Copperplate.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ec4bb7d9a4061a0d41c7ff7f03ea14fe60a883876306f0f2849609aa7e2b851e",
+      "bytes": 1254748
+    },
+    {
+      "id": "apple-macos/Supplemental/Corsiva.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3cb63cc6e08a4879db52bd9225d792a81e4b6f5e59e976848faa34715fa7c6f0",
+      "bytes": 72584
+    },
+    {
+      "id": "apple-macos/Supplemental/Courier New Bold Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "60e4c514200985d3f8405af039ffb89cd24b45fef5005b019825a4937b96135d",
+      "bytes": 506640
+    },
+    {
+      "id": "apple-macos/Supplemental/Courier New Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "500df4e46b554ae7d646e8727952fd8c7e60e94423481f6b82325cfddba2ee6a",
+      "bytes": 691796
+    },
+    {
+      "id": "apple-macos/Supplemental/Courier New Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b5c6d453f16fb1693652671fa2e11d8c8ad1cd0046c3f38ae2608d165838ecf1",
+      "bytes": 589900
+    },
+    {
+      "id": "apple-macos/Supplemental/Courier New.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c886ca3172d8ce9189976992d145ec090500a4ff516ecb9d4df56b1a78336247",
+      "bytes": 684624
+    },
+    {
+      "id": "apple-macos/Supplemental/DIN Alternate Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e3dbba7da8bc75a8098134cc811d6ee9d6b2525be35da069f366fb94df00c73d",
+      "bytes": 147808
+    },
+    {
+      "id": "apple-macos/Supplemental/DIN Condensed Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "932b288911011a1910a42940ed1525f4a0e7a140177d5d27ee6aae4ed8bb1233",
+      "bytes": 207744
+    },
+    {
+      "id": "apple-macos/Supplemental/Damascus.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "31cae60b712e916225939e80d6eaf15c49a9cc49525ee73a0b33556a3da6aa5f",
+      "bytes": 3008952
+    },
+    {
+      "id": "apple-macos/Supplemental/DecoTypeNaskh.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9e56f2ccbc64d55eea4cc2af1d995cd189a01f0774de098b4c6cf1626b960797",
+      "bytes": 93920
+    },
+    {
+      "id": "apple-macos/Supplemental/Devanagari Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "56c66a13ed676f86db3ac6bc6c3c0215d78f0b4b8b4dc49e4245b3cc8c87bdc9",
+      "bytes": 1021020
+    },
+    {
+      "id": "apple-macos/Supplemental/DevanagariMT.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e548368938f64f9867a38e11549cd668c30df91a9fad2ee349f4fdb13d4aeca8",
+      "bytes": 406116
+    },
+    {
+      "id": "apple-macos/Supplemental/Didot.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "feedda1fb0b84b76115ac5e2f7434e3630fabc7f52e7d0e932e35d286b702eb9",
+      "bytes": 711308
+    },
+    {
+      "id": "apple-macos/Supplemental/Diwan Kufi.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5121146d68ab2d2b943f37f595a5b26b3f100e232513740f470877966b79f88b",
+      "bytes": 90196
+    },
+    {
+      "id": "apple-macos/Supplemental/Diwan Thuluth.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "83e96c7fcf9f251609ad4df930168e9ad26580bb6253e2a03a0987375df3f58a",
+      "bytes": 1318180
+    },
+    {
+      "id": "apple-macos/Supplemental/EuphemiaCAS.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8bc32fae6e595497050d1303cada088f5c7f32fe2cbe491bcf07e0190715eedc",
+      "bytes": 481220
+    },
+    {
+      "id": "apple-macos/Supplemental/Farah.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "76f8a4504aa6845934da33b61134ad1ad8b4da7ec7fc40a966144fd95f18d3f6",
+      "bytes": 87608
+    },
+    {
+      "id": "apple-macos/Supplemental/Farisi.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2f85d83f0aee9dbd4d4f597ee83e47f3cabf2e931499c46fbe599a5408250f78",
+      "bytes": 279840
+    },
+    {
+      "id": "apple-macos/Supplemental/Futura.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c27c8cd547b6f4556a45867235136f3544f7183a709688aff9869cfd78c24da6",
+      "bytes": 465140
+    },
+    {
+      "id": "apple-macos/Supplemental/Galvji.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ef74e4baa7747ccf887578c8f3bee6e1f93e5d2d2009bb04ad47e5262d80722d",
+      "bytes": 419236
+    },
+    {
+      "id": "apple-macos/Supplemental/Georgia Bold Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a2036878f47d0da1765869a8747cfb0079b6125776675bad352468b59ca4493d",
+      "bytes": 385768
+    },
+    {
+      "id": "apple-macos/Supplemental/Georgia Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1cfa9abd55be746c798c22ef4eba88fce82257934897404be2dae53ed0a4142a",
+      "bytes": 363800
+    },
+    {
+      "id": "apple-macos/Supplemental/Georgia Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7758840cacb7382db65aa038e9fd1194d077ba9b55fe748f9cfb196d2773ac4e",
+      "bytes": 400624
+    },
+    {
+      "id": "apple-macos/Supplemental/Georgia.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4f54eb299fccea7f103edeb0d92437359bfd4441811d53222b82b335369f6218",
+      "bytes": 379588
+    },
+    {
+      "id": "apple-macos/Supplemental/GillSans.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "43c9322041e6fe7e448c988bc09767a9c4a081ad72ea56e9c51f571557eef7e8",
+      "bytes": 1216620
+    },
+    {
+      "id": "apple-macos/Supplemental/Gujarati Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "541913ec9075be88b0e14680d5588cb90ba2493ea448286a8b5a6e8774b2c030",
+      "bytes": 541436
+    },
+    {
+      "id": "apple-macos/Supplemental/GujaratiMT.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "87fc80abe14f561045f88d97414a81a8283b7960cffebeb784ad7e47c77a65fd",
+      "bytes": 381212
+    },
+    {
+      "id": "apple-macos/Supplemental/Gurmukhi MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b0b6df7f8529d785f7cb9a7d96d6cbd15b7028128f3972e95a319ee1ce943063",
+      "bytes": 225340
+    },
+    {
+      "id": "apple-macos/Supplemental/Gurmukhi Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f53da8d7e2d58e9fadd2c01b80abc4b3cd8541b861c1b4120b7b841f81b6078e",
+      "bytes": 139016
+    },
+    {
+      "id": "apple-macos/Supplemental/Gurmukhi.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "910a5d3febd9517f23b849cef78a211922142a4c7ec08f96fd4f85f2e4e5ce31",
+      "bytes": 64020
+    },
+    {
+      "id": "apple-macos/Supplemental/Herculanum.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5a6afd60a359ddbec9cbba0d34739c5fcbe4897c6c9bf05e48a508501df775d1",
+      "bytes": 107580
+    },
+    {
+      "id": "apple-macos/Supplemental/Hoefler Text Ornaments.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "537ff415ef11a128e42ca2f25bdb38b26bcfe4bc3c6900527c015244941ea991",
+      "bytes": 41492
+    },
+    {
+      "id": "apple-macos/Supplemental/Hoefler Text.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5060530623e8d6e7fa4f163a37a36ab479871678a04b74941980737b0f12545a",
+      "bytes": 1630096
+    },
+    {
+      "id": "apple-macos/Supplemental/ITFDevanagari.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "93848f7baf6ce7b3966266e1cc25c6235c4ac548ac0427ca841e88c23cc8c03e",
+      "bytes": 800948
+    },
+    {
+      "id": "apple-macos/Supplemental/Impact.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "57e95627fd36fe2740e5ee8a91ff1ae74fb216df9580bd23e30d6772814727be",
+      "bytes": 138488
+    },
+    {
+      "id": "apple-macos/Supplemental/InaiMathi-MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "13ff4b4c4af224ab68099fd0e12b22bc302541f439663a3bdc413413da1ca22b",
+      "bytes": 452872
+    },
+    {
+      "id": "apple-macos/Supplemental/Iowan Old Style.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "585e09f1f10a5b734d1ebdfb78d4a4448732fb650d770d1b51ec7ee35fb4da78",
+      "bytes": 3393680
+    },
+    {
+      "id": "apple-macos/Supplemental/Kailasa.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "82117708dc723729581ead21ef1557ea8b33a8ef6e17c844422fa749d4293152",
+      "bytes": 1170568
+    },
+    {
+      "id": "apple-macos/Supplemental/Kannada MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fdc0e5cc98498bb91350a331ca5d44a7027c760f44477706cad47bcc433735b9",
+      "bytes": 338680
+    },
+    {
+      "id": "apple-macos/Supplemental/Kannada Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f8eaf790a90e5b6e567eb569e9d00e34b2926cbfeabde1437135bcac924d514b",
+      "bytes": 292540
+    },
+    {
+      "id": "apple-macos/Supplemental/KefaIII.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "97c6cafd1d03684496eb426563deda584ba487220d15195d0ced96fe99d3b66f",
+      "bytes": 523268
+    },
+    {
+      "id": "apple-macos/Supplemental/Khmer MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "31c1b638e2fb35f7f9a664f39111a4fad36da9381f38175995d25c802da51643",
+      "bytes": 400284
+    },
+    {
+      "id": "apple-macos/Supplemental/Khmer Sangam MN.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1251c224653c4120e4722e394bfa8557b03fc06213256af210b9d0218ee32e60",
+      "bytes": 140296
+    },
+    {
+      "id": "apple-macos/Supplemental/Kokonor.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6751e30a098bbb584aae571d99a17f0dc9721cef192b6d68cc606d6d4911dfe2",
+      "bytes": 1080060
+    },
+    {
+      "id": "apple-macos/Supplemental/Krungthep.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4d5c3dd8615045568c7ed082fab43bdcb05c593d05f94df2d2a9d0285d373fa8",
+      "bytes": 186688
+    },
+    {
+      "id": "apple-macos/Supplemental/KufiStandardGK.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "68e2c704d817e501d28d0d9f554b513fbfdc16845d509979d1b7150b00ab4e79",
+      "bytes": 54096
+    },
+    {
+      "id": "apple-macos/Supplemental/Lao MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "027737f227d5b200eba95578a61bcdd2d3546b3f28c7e959ab6caa40e0754010",
+      "bytes": 91556
+    },
+    {
+      "id": "apple-macos/Supplemental/Lao Sangam MN.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9dd076e9bf495f1919a213f65f147da7caba54882ecdf8db4d972dae1d27fcd3",
+      "bytes": 55612
+    },
+    {
+      "id": "apple-macos/Supplemental/Luminari.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4054fff7b5f8bc63343754c046a89f96006bb5b581ec0c529780c6afb4245095",
+      "bytes": 553980
+    },
+    {
+      "id": "apple-macos/Supplemental/Malayalam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "196b291da0bfd2b48604c8e4854d1574bdd52368f9dfa23b43da718cf3d2dd00",
+      "bytes": 169844
+    },
+    {
+      "id": "apple-macos/Supplemental/Malayalam Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9706aa1674a04440f014e5116dfac0704d05b14c69ac765049075bad7cc4411e",
+      "bytes": 179992
+    },
+    {
+      "id": "apple-macos/Supplemental/Marion.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c5870ba26bb3b5c376b6fe9f0ba2aeb5d0bca47536c0e268e755fc2e713d8f73",
+      "bytes": 914976
+    },
+    {
+      "id": "apple-macos/Supplemental/Microsoft Sans Serif.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "681fd20f201435edc09fac432cd5409722ca8fd10970dc3dc9be1b2de4b0ef43",
+      "bytes": 652248
+    },
+    {
+      "id": "apple-macos/Supplemental/Mishafi Gold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5e962a5082c78185f76f9859d9a8c38caa6c39cedbcecf3f0d99ce77ff365b40",
+      "bytes": 647648
+    },
+    {
+      "id": "apple-macos/Supplemental/Mishafi.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e160779676814b6a65960ee47a9008125297cc691c91587777bcfb779dcb8dbd",
+      "bytes": 1425176
+    },
+    {
+      "id": "apple-macos/Supplemental/Mshtakan.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d19d0f5e141ede92638103af33e7c2bd22bf621575333eccf25779ffd945a59b",
+      "bytes": 169068
+    },
+    {
+      "id": "apple-macos/Supplemental/Muna.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8c2c3b5251ef9d512da5b2a74e71f598b9e6fdee35414de49d99d358134b5d30",
+      "bytes": 196780
+    },
+    {
+      "id": "apple-macos/Supplemental/Myanmar MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "21ede5e945023da6c6e411781fe20945011ac62dc1e0c1ec25cf3f515d6ebb83",
+      "bytes": 237220
+    },
+    {
+      "id": "apple-macos/Supplemental/Myanmar Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f4bb24811e3511ff916eb0a5b7417872be7ea6704bce14f9d6e3b26af1b67004",
+      "bytes": 188768
+    },
+    {
+      "id": "apple-macos/Supplemental/NISC18030.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "16873a59395e34beeaa8e79d20a2ba437711352c59aa438bb1fe491aec6c4401",
+      "bytes": 7108660
+    },
+    {
+      "id": "apple-macos/Supplemental/Nadeem.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f6ab156c95f0f2d122b81c7a2b7139330d87251e6fe3a63733f1903c23b2ac73",
+      "bytes": 59092
+    },
+    {
+      "id": "apple-macos/Supplemental/NewPeninimMT.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7c22200647285cc2b270782b8d93484e3144273e1bce9bb5739063a6b7b84323",
+      "bytes": 150116
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansAdlam-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4ca58c4f467db4ca8df06ce40f7cc8b27ded41963984f8a4d441285335626dab",
+      "bytes": 61236
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansAvestan-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2a7dc1aba3bc403fa830c90d5755583ae6bdec8284ad6b5309001f16e00a4bbc",
+      "bytes": 12888
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansBamum-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ac11fedc2a73d0a9bfc3fc72ecd2e3e833107a1156797f3677945e320fd499d7",
+      "bytes": 148664
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansBassaVah-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b2cb12dafa67d0a4aca432aa598b2e947361a3738d79cf9652c25b599e985f7d",
+      "bytes": 7740
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansBatak-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a32831ffc38301991b631bb0fb1aa9dc5dd96f4047c84635bb031dd682d3c594",
+      "bytes": 22084
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansBhaiksuki-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ab4dd380c621508d510b80309fd2ecde63818fc4dee9140e36e70d118db18beb",
+      "bytes": 220044
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansBuginese-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1ade06c5d328f0978d173c18a061ec3b157ba7ced3f4449ad73e16add4f24eef",
+      "bytes": 7236
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansBuhid-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ce3f9e3c785f84fa29246e690e7ccccfe8daf07eb727f1feddec5fa10465a256",
+      "bytes": 5612
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansCarian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d1631100e9b431e672401397465f00300acf1002a10e35d08d4fd0e7a416abae",
+      "bytes": 6688
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansCaucasianAlbanian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6c83cbe4540aed2e976169674e0dcdcee9d6aa7d4dc286fb2559cf4a4e46d418",
+      "bytes": 26828
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansChakma-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "69a99548a7a1f36ec3ba6fe93f88749b66cf091087eba7a0d1934d27784dba91",
+      "bytes": 41592
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansCham-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a02e3a71a31f6e38f504976ebbca80add502006a04d3ad62833ffc4e59142b4d",
+      "bytes": 30208
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansCoptic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "28b6686a032e98205dfec91dcfe196eb4169ad758696b7c2932968b7cd5b6f66",
+      "bytes": 28084
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansCuneiform-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "bae49e30a541479cdc8040d6ed2aefe2e75570b3ac303ebece0f25d90fe25e1d",
+      "bytes": 820316
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansCypriot-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3e2f2c2a051547937876ca00f43544450489e16e24501d0362c621dae9923b8b",
+      "bytes": 8332
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansDuployan-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "081cfdc3be05bf0280aebf360723d0606ae4b571fa3f1fde12058cc63f3eb24c",
+      "bytes": 18724
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "93889bf8a5563f87f70269fc546ca51cbbda6c617c6f3b417792bfe65d6b1165",
+      "bytes": 585444
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansElbasan-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "15489bca9803de2a8777c1f478d41dd6de1f81703af34abfb1275afae4857478",
+      "bytes": 11172
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansGlagolitic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fce75abc3b73e537d92e0bef60dc93d65a5cf9ae4d5b8bbb77222b30dc8125c4",
+      "bytes": 23264
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansGothic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8638a2c56f231dddb5c4a5be06cd62855718913275f5bc0af5113a87f227f3b5",
+      "bytes": 6152
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansGunjalaGondi-Regular.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "896b11b131c7edd23ae97765c16f0c9abb78a9aa322338bacd296ea81357899c",
+      "bytes": 32372
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansHanifiRohingya-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2c3b37dbaf80f240b432a5805160add5a4307a9d3adb4a632a1ce52a3e53f894",
+      "bytes": 19400
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansHanunoo-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3f54af33b23863e6cbccdbadc206d3e1c8f3d04ac7154442b8635df5468d9cc4",
+      "bytes": 7896
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansHatran-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3b72a1ced0b9a018dbe77408f3fa505f65dad5682ba81f9a560af1f3d1b2dec7",
+      "bytes": 5020
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansImperialAramaic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1d8dec133932014d3baceae6ece503aa52ecce3b17c64b2dff6ccd691d81c478",
+      "bytes": 6500
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e571797e882fd8a93874f6a75810dd8016120f8112d6ffb469c5d45e56c2da5a",
+      "bytes": 6032
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansInscriptionalParthian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1a9c98df07720413e51fd29bec966a4e0c9edcc0fba8e45038ef4974b255c074",
+      "bytes": 7792
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansJavanese-Regular.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "18254c5855aa9ec145cbcbf3c2db69daf52f323e3ac2b049d137b6ec85c50a28",
+      "bytes": 86944
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansKaithi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "75b74f45f121e9fc7cf4a3b5fb765101d51d74a8b321f755b938c9f6f2bdc58e",
+      "bytes": 62716
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansKayahLi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8e3a92a485f062923f221f043c292d7bb8b0715617aabc5e4c88591f865a2307",
+      "bytes": 9464
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansKharoshthi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "bfe057992a0f4e60b61a4cc977d10badb9036b635f184b28307192df1a1a4b76",
+      "bytes": 25388
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansKhojki-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d743510e9c5a045f14890e694e98b623beb36294a9a10420e6d4ef3723f8dcfc",
+      "bytes": 42632
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansKhudawadi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "37406ba2413ad4753fba389822a203e55359e32eb028ac15be587b2541d11090",
+      "bytes": 19032
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansLepcha-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6019ed0497ddf6d07bd9310976e591898f46ea3f4a45782b6e3e901ab3a53bdc",
+      "bytes": 24500
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansLimbu-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2c225a605c5a8aae3c05cf4e8aa710eedf3fa20d59578b1facb127e08ee47191",
+      "bytes": 12912
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansLinearA-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a133c2e91206a17e5354f5ea16656a6d8ecb46dcf29a1d17dba62653eee8c51e",
+      "bytes": 58140
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansLinearB-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "23275e2c7aacf0740c08e184525aa50d8312f9d3235be582549114e2ae2c506e",
+      "bytes": 64828
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansLisu-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f78f3387e505fa6fbbe19fa1c6d20f2d96c141b17dacab33b9dfd45a5289ecd1",
+      "bytes": 6516
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansLycian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1a06d8d62b5d7e616c1caed04e2351f7d03d7e691f9a0ee9f4b5bf529014149d",
+      "bytes": 4556
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansLydian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1ccad3ff44c94446a65e5c15be2714acf12487d4e11a3dd39481f62667f43173",
+      "bytes": 4592
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMahajani-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "87b29271c0485e5ded2b65e15bea5ff205e4a2e12b61c0c9678cb41d45c790a9",
+      "bytes": 14144
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMandaic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4d17d30a0c47a4b2dc87a61f4751e9e54740d4fb3631a991e1c0369ee38c4f73",
+      "bytes": 18908
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansManichaean-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f30038aeca2c7d0f44c085df4c7ecb598e04732b70daab8219ae29be6861011d",
+      "bytes": 31448
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMarchen-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6b55b9e8bc50d2f71e211821840c02d29675419608ed981cb1907e50c3fc1e2c",
+      "bytes": 125956
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMasaramGondi-Regular.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ea4a6ecb03bf46fd3b8ceb79c8aef5cadcd23d4bc0fd2da9aedea87ab0501bd1",
+      "bytes": 23052
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMeeteiMayek-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "cb3bf6030dfeaa765fc0b97469a98444ae6eff937162c1221b3cb368f7c6388a",
+      "bytes": 16044
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMendeKikakui-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "04ee7b18ca85d6d7e5d093e2c9c5494994a7d8ce1bddfeee8712490e4a8f08ed",
+      "bytes": 35360
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMeroitic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b3158127a35076b87deac06b13a29df6c397fb2d2562f5d40f7e47a389b43be1",
+      "bytes": 33644
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMiao-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e66141c65237edecb22a32e4051516e33ea32548d5aa83a5c70edde9ff5f6be6",
+      "bytes": 36236
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansModi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "be1dbe9c189e98ac2df4dc497148b81585865457c8c8f53f1698cc3fac6e0a27",
+      "bytes": 42688
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMongolian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "df8e76675870a47f7dd97ea7e224fcf870713f43ebe6fe4ae6c260d0ee838a0d",
+      "bytes": 253932
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMro-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "611858696f30b442bf6405f4bad0a8dfc0810763441d804890a736aa6f902a2d",
+      "bytes": 6904
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansMultani-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fce81e8f9a463f40793136cc446653085a46aa82e635d9520e31a70ee6f629f3",
+      "bytes": 9856
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansNKo-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "72107ca6885331147fb0ca4d7a71f96e6b3e989a75d66ef979a96966b28f8526",
+      "bytes": 24608
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansNabataean-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f4c55f60942c3b21d7e449b96ac240e19a1e5510618ef310b20ea97a079c8d5a",
+      "bytes": 8400
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansNagMundari-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "94789e3ed944ce32f1757e23df8ae3bd4d4d3c46539e8f986b02a5f8fe5954fc",
+      "bytes": 17152
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansNewTaiLue-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f622c16e1e452905bbe8d94347b9bcec071a49cdc187e1a74e4dffc6d526dbeb",
+      "bytes": 17000
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansNewa-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6eb7557d0b7b40f22556c1d90afe011e628df457191830355577da6157ea443e",
+      "bytes": 149024
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOlChiki-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "42020ef6e4bb0ebde8ecea0c85877fac817a49b69670d5ab755ac6cc16a351f1",
+      "bytes": 8860
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOldHungarian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9a926369d7e44450c9c4e211f38829f880ecce16f6325e699eb29ce3851bfc7b",
+      "bytes": 54020
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOldItalic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "411ef5004b1978f51878394bec0971811e28f81cd4184ac2282dcb6996b27c87",
+      "bytes": 7524
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOldNorthArabian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6d4e0f32ab4bc7bee8954e21ee80c3e20dc50b7b0961668a9455e7a809e78cf0",
+      "bytes": 7284
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOldPermic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8897b1d76fa4d872add20b23244ec351e80cb8df1e2a9434aabfc778a1a247e8",
+      "bytes": 9984
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOldPersian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fd46d52e32b296b6f2db73ed02c423d4384f3ae5c2f7e1de4f2df3ff4dbf0eb1",
+      "bytes": 13180
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOldSouthArabian-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5d0b9191b80d23fbc22b4ea48d50e6cd53ffb6cbeea86644127ebe836ab96bb3",
+      "bytes": 5232
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOldTurkic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "02f35911c7249d2412f819b013a4705a5477fa44d0912e70212313ec7f7ae2a2",
+      "bytes": 8372
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOsage-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "93b97cbfe440cdedc69014b775faab9b44f9cf4a3cf801851278486d15e9cfe3",
+      "bytes": 12512
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansOsmanya-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "42b8ef4101c6cb45c85ea98c69d75be5838b6f86622bf8449e07312f9fa5db62",
+      "bytes": 8604
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansPahawhHmong-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6033e882e304ab204b55bbf75032c87f7cce516e59a26df7633264bfa077c545",
+      "bytes": 18272
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansPalmyrene-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "0303c0e1a6653b05035a74255423e812529f89b8ef3d006513ce48b1756a2365",
+      "bytes": 15684
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansPauCinHau-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e0850630f6affd48b4d077b55ed7160e80616bf8ff69c62c6d873245cfffac2b",
+      "bytes": 9816
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansPhagsPa-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "dc6975773e7c2707d36cd1018ec1c93a396a19d68ae484360b551ec5157dac2d",
+      "bytes": 34176
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansPhoenician-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "47709d5c78988406ccada0d83d60a3dd58eb292e21bf0ef58d0212d20802d1b7",
+      "bytes": 6252
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansPsalterPahlavi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "08553bb6205276d6e96ecee2c31b626f3f3e5774dbfb83011fdd1095ec3d68cd",
+      "bytes": 21676
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansRejang-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d4692c20ee33dadb2d1187dd2a6022e087dec011ccef869ab6553ff5771fb6fe",
+      "bytes": 7620
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSamaritan-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4740b58fe07816db1fc838a3004b62dd978b6ac20dbb43a792bef7f28debe0c5",
+      "bytes": 11164
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSaurashtra-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "892db68ca8f826b6af8d13c8a4249e1fd74598c8dba73a478d6c3ad0efb23cb3",
+      "bytes": 19792
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSharada-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "0ad26fc89ef2be580c1e6ae10450878f2fddbe2c3b3c9e6bb3dd11ff1c9cbeb2",
+      "bytes": 44108
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSiddham-Regular.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6062ee98c26cb38b34d43ef71bf95aa962024e725a9138d861661f8a237bae41",
+      "bytes": 94408
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSoraSompeng-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "84db8313949e266e43740eab6a93c69f6deaf090aa9fa01739a0ad99b63f6cbd",
+      "bytes": 8108
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSundanese-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "44116238e4f55dedf5a0232f6d6eadbeedd8896b8bee6a63fe949e4c2ec1cf29",
+      "bytes": 11512
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSunuwar-Regular.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d8edd2adda4e2ad3bf9f19bd3c50c599f0c9aaaf3d74a0c12841408ccc978a0e",
+      "bytes": 12420
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSylotiNagri-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e45262b5d2a31db47cc177ddd1c466e241a8ccd5bbff6ba6166e1bd97d9c0635",
+      "bytes": 16576
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansSyriac-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d75500075158475aa8d9c5d586196945a0d92d1c27c5d66ecfb0c4f4af35ffe8",
+      "bytes": 115268
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTagalog-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "69087a0b8ad9a405b065aefefe0c298d9aa7f61b0de345566baf282c9e8282e0",
+      "bytes": 7012
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTagbanwa-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7dedb32bfc8dc5ef05a222bc05ad4fc8f72e0e3fca2a9eb9841591102c040c48",
+      "bytes": 6648
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTaiLe-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "396016aacf92e480f369ba41ed9958bcceb002eaf057da65647ae9250d02b491",
+      "bytes": 12072
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTaiTham-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8b58452015baffee6ba520dcd3396f79d23cdc39392a13f5e784e72ac29d0d22",
+      "bytes": 51040
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTaiViet-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4d3bd3ab7a8f0dd7276f8f8020a1f628098cd27f95a02966d4959af2cb50a8e3",
+      "bytes": 18220
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTakri-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a541ceccf0b2f3c733f362373e3cc2ad4b7b834160a889b4ad44bf0d2ddbbab9",
+      "bytes": 16652
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansThaana-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d518c8161d9ae68470c9ef5080f9c9aae887dd93bf3c1529a9913ba059ae60e4",
+      "bytes": 18792
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTifinagh-Regular.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8396ced3cf679a82b5ac2f18639b8a5676b8cd25cfaa833adea8dacbd5a97052",
+      "bytes": 24956
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansTirhuta-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a4fed705f990f3cc11403d41a673941def5e65f211dcc7871b13d27bf089ed22",
+      "bytes": 69944
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansUgaritic-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4cab9c4e616e162fef49211db26dcd2d4452a6bf945770330d8571c4e7e6841e",
+      "bytes": 7656
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansVai-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8730386f446879e610c2aa0cc1b98c56031594fbe94c07f26e515cf7c07a32b2",
+      "bytes": 57764
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansWancho-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7a736f363686f9e88a38a1cc0ba8d68f6cba3da4149f320d91a1a42b2896d2e3",
+      "bytes": 17992
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansWarangCiti-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e9f7e9f0c581c467f6f0f942c8dfb494c87a1373cc1aea0d6ed93727804bad47",
+      "bytes": 25304
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSansYi-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1744f6ebb56f63c9c2276362bf3fcad69d15afcdd199018238ff39558eadf06e",
+      "bytes": 134064
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSerifAhom-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "635cd17bfcbd37457c98f0f9e70c7a0aa520f7f202a2b267b09f18fe5e80223d",
+      "bytes": 19512
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSerifBalinese-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "009f6471b5d2f95172cf3e186d497386f1d2499d69daa6b188e04ced3def8aa1",
+      "bytes": 51264
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSerifNyiakengPuachueHmong-Regular.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4727ad21c1c9e520ab244399c93014062856009c25fc4154066d9e5e3626b579",
+      "bytes": 14888
+    },
+    {
+      "id": "apple-macos/Supplemental/NotoSerifYezidi-Regular.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f8a3c04d1a0a872e2a522d07f1280369c30c680c40099eaf4471ee7c389ebde9",
+      "bytes": 8664
+    },
+    {
+      "id": "apple-macos/Supplemental/Oriya MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ef183b6d7415db69bdd83f331d40e863a9fb9a70e7b6a2ed443b9043cc265ab6",
+      "bytes": 209620
+    },
+    {
+      "id": "apple-macos/Supplemental/Oriya Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ce7f6779c7cb046ef25a7e63463afec3fa01aeaa1a915abdeb1333b570850fc1",
+      "bytes": 181016
+    },
+    {
+      "id": "apple-macos/Supplemental/PTMono.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d8b0d7b173e199149f5bb0700f69920d56484c309149fe770dc04fb942599947",
+      "bytes": 309040
+    },
+    {
+      "id": "apple-macos/Supplemental/PTSans.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9a5e0fbbc4ae9744af2dcdbd46d332731f219ba1356948299a107f89c505c79a",
+      "bytes": 2765928
+    },
+    {
+      "id": "apple-macos/Supplemental/PTSerif.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "49a4f6615d467e3de46d713ee2e03c00fad76b2c1e1e68be3b4db6c1aae3ad34",
+      "bytes": 1151016
+    },
+    {
+      "id": "apple-macos/Supplemental/PTSerifCaption.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b497475eb1a468553364dbe61b9730999b500192dd02743108306dbdcc857517",
+      "bytes": 699800
+    },
+    {
+      "id": "apple-macos/Supplemental/Papyrus.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "1857c06adaa18fcbec55328c417ac572a3801b7ff55cb27765ae39ed7b9b445c",
+      "bytes": 1102236
+    },
+    {
+      "id": "apple-macos/Supplemental/PartyLET-plain.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2be3b08fdfe79f9198eaeb7fc8acb9fd720b6635e35eb3a28c6d6434fa4a29ca",
+      "bytes": 208944
+    },
+    {
+      "id": "apple-macos/Supplemental/Phosphate.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f8ca4d830a36351c1c7d562f56eb694b55b00994e2958132ece2ef977a70c622",
+      "bytes": 222748
+    },
+    {
+      "id": "apple-macos/Supplemental/PlantagenetCherokee.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b8d56f0b573c1b47b39899be18700a882cd28ef04e29394678802d3ed7d1087f",
+      "bytes": 71952
+    },
+    {
+      "id": "apple-macos/Supplemental/Raanana.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "471b7adcea8cd54842b1fa4da8b6afc49d0ec98dfc0c6d7a22d30fb6a2ba7e13",
+      "bytes": 40200
+    },
+    {
+      "id": "apple-macos/Supplemental/Rockwell.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d96dfdd45d4b89eed3f376ab590b06eb2159292689ff5b0be9884b21121eca7c",
+      "bytes": 471440
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXGeneral.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5add3f3f2bd7fd897d2fa5ccbe468607c52111dc44cdfaaf2d851a574f5357a7",
+      "bytes": 369156
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXGeneralBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7e4dfb4979e9bb79a0bdedc56f055eab615fb9a3dff8788a52992ae65e8f572d",
+      "bytes": 186612
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXGeneralBolIta.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4585fcdd3aa1a6f3451c03d4f587134b9fc8a0835380ffec25f3105908ddf31a",
+      "bytes": 143764
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXGeneralItalic.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7f6bf9cab728febe4ce111bbfbcd16253806dcab0bbe1940ede2782cfc319a72",
+      "bytes": 141844
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntDBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8e9adaa55e482c0568a0fb0cbeb76c6ca79e6a99eb43b8f4b720e9d048eaeac0",
+      "bytes": 16992
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntDReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "4f16d3dfe5fbc80f19611555c6deffdd5214d75a19a059cd007f75c34cb9726b",
+      "bytes": 17500
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntSmBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "317f480d4af5468aed9f81e92787092cdee211c47b635ac1f83e241d5d7509d7",
+      "bytes": 16608
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntSmReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "33f533027dc4d46384005ab30dbc9de345ea167c1626f64e48c5ffb6c824a2a3",
+      "bytes": 17416
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntUpBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "835a0736be951f58d6496ea601b72436fa54c2394835c68430ffa9cb60585486",
+      "bytes": 16576
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntUpDBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c7579768726c86674b6395e387d0100aee304617a2f6d0e9c80f665db5f2fda1",
+      "bytes": 16932
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntUpDReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "602ed39c8479f7a54eb9eddb13c343f393656b2b5690f5768b3169cfa1f688b8",
+      "bytes": 16964
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntUpReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ba1b5dc603956384a8e33141efe684a468c78f8371ce059e4c4ba96247171df5",
+      "bytes": 16856
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntUpSmBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d776a6661019d0e65129c11ca4f5130de80135f8b0c2d014e2109ea3735bd06a",
+      "bytes": 16916
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXIntUpSmReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "5e86eb813bc83daa0fc83f5e7814a9ac54fc27a050d14e408f8acbfb639c2fe9",
+      "bytes": 17184
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXNonUni.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "26c141bf3cbb7058246771eeaf8d5b49949a49e00f7cb12535e6848d28a89eff",
+      "bytes": 54556
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXNonUniBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "405fd126348781471350cbd4517ebf2f39ab6d324a55691a68b63a0b13d1b768",
+      "bytes": 25508
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXNonUniBolIta.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7809b69d7d0ccb3e43e0c54c20adc269233e2b039eeacf2e0efa17d7d384ccfa",
+      "bytes": 41188
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXNonUniIta.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "03ae0dce5764007238471a83e91e5a1397253efcb2e9ff0c4a3eaa7b188a8b64",
+      "bytes": 46268
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizFiveSymReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ceea484bfe98f42e48f4b3c0fa7c32d8e20002408c8d2dde7e0044b082f000a8",
+      "bytes": 13464
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizFourSymBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "91e8f6703a26b9eef0bc8bcd9e294876bab4db94d70aa282c3a38bb606d4f386",
+      "bytes": 12628
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizFourSymReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ac0827e53a11de79587a9a5dfde7d31b80d2aa039988f576fa063d47814c9604",
+      "bytes": 15656
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizOneSymBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6af0b03b7833028678c44e90d93c98dd2e3ac9ff119052e1e3c3c30645ec3e7f",
+      "bytes": 12924
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizOneSymReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "389a22dfe3c7a097e4b24224dbd62952fc25218640e35f1530ff6bbabe640b25",
+      "bytes": 19004
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizThreeSymBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6aca1c8cfdadee711a124a504bed27155aa6e15b740e66be92948f3184353860",
+      "bytes": 12636
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizThreeSymReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a5cd32b5f14b8cf224e1f546be4549013aa6e6042580ef7151d40022203682ab",
+      "bytes": 15648
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizTwoSymBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "eba25ebafe86908f1488028253f5c077d8055155b932dcf186e69c7322ae82a6",
+      "bytes": 12576
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXSizTwoSymReg.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c9802f7e4fcfc1fcba89396716bc20a06886ac550242d6fdf7c20cc629ee6428",
+      "bytes": 15620
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXTwoMath.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3a5f3f26f40d5698b3c62dd085d48d6663696a3f80825aab8b553d5097518e8c",
+      "bytes": 838652
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXTwoText-Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "88c0e2e316eaff56eddc9e51e4850317e2a1e490bbf758b2dec4793aedba9c74",
+      "bytes": 454368
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXTwoText.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7962b8b7811e6a896c9a91a0bccbb5241047770eb24d4997c5cb5fe21d5c0df2",
+      "bytes": 418956
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXVar.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e0b9fbd5ebb9e936fd01903998b27267d5a02d6f6e777151787a1a169b4f264d",
+      "bytes": 21776
+    },
+    {
+      "id": "apple-macos/Supplemental/STIXVarBol.otf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8dfc1801a43f780c5eee90364c30c1aafa4187676a0d137a2853ea34b8461eaf",
+      "bytes": 14808
+    },
+    {
+      "id": "apple-macos/Supplemental/Sana.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3ee56619b1ced9fc2a0f2aad6c7d7af184091a2b8533e488f4cf9b4aa2a2ffa3",
+      "bytes": 74156
+    },
+    {
+      "id": "apple-macos/Supplemental/Sathu.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "811cce76f0d4bb8e5d826004429fbf0c02654d7060db1bbd8769a76bba5e93e7",
+      "bytes": 413948
+    },
+    {
+      "id": "apple-macos/Supplemental/Savoye LET.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "d893e8ffd433b3ff74c529ce30fdbf4618cdaceecc873e95bc1648d8880b3c90",
+      "bytes": 101228
+    },
+    {
+      "id": "apple-macos/Supplemental/Seravek.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "52ffab9a0bf9d31f25e9cf9ec4aaeff61a6f54d7b89026146549b1e72e8bbdc4",
+      "bytes": 6214992
+    },
+    {
+      "id": "apple-macos/Supplemental/Shree714.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6edc8d43ba1deea49a2614f2017b1379d2c12687c5eb5dfd9bd08bae885bada5",
+      "bytes": 520112
+    },
+    {
+      "id": "apple-macos/Supplemental/SignPainter.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9dda66afce82a4e1b6c2faffb49ebe955eb4bde9ddba1ec7ac8f656dd75ced92",
+      "bytes": 392124
+    },
+    {
+      "id": "apple-macos/Supplemental/Silom.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "16329fc44f3fd29cc87ec0d86a8ff7268b4891907a8151efd946a28048effae9",
+      "bytes": 288080
+    },
+    {
+      "id": "apple-macos/Supplemental/Sinhala MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a3f1856cfa829e4b2fcf732fb4c0dfc06910603edc04aa6432adc6c6a2898e6e",
+      "bytes": 772984
+    },
+    {
+      "id": "apple-macos/Supplemental/Sinhala Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "bc965b2ce1a028601036d268e3379a3c0943f60cda39043905c666d0707a76bf",
+      "bytes": 752820
+    },
+    {
+      "id": "apple-macos/Supplemental/Skia.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "2b7486d3a830ce4b1e352717074383c686a5fe42c8721207b68fb3fdfe92b0db",
+      "bytes": 489556
+    },
+    {
+      "id": "apple-macos/Supplemental/SnellRoundhand.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "0df6e98989e3cf1d217ab3af048ce49829ebc8a0796153e3148df24b17dc8475",
+      "bytes": 3576120
+    },
+    {
+      "id": "apple-macos/Supplemental/Songti.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "dd2f0628d302f322a2e9c3cf3253d5e73f418275e1f1421c84a7c65ce5a87777",
+      "bytes": 66902744
+    },
+    {
+      "id": "apple-macos/Supplemental/SukhumvitSet.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "327280c8ab9f0aa65c7a641c63a6453626a70e4b9f04ab8041010fd2ac3838ed",
+      "bytes": 338496
+    },
+    {
+      "id": "apple-macos/Supplemental/SuperClarendon.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "83989afcec27e9f0aed2e336400ac51bfce4ef5fcb53522c52dee646640d1fd7",
+      "bytes": 2679976
+    },
+    {
+      "id": "apple-macos/Supplemental/Tahoma Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "fc1863ab504b9c160abaa12b92296363db72f5b759311982510a85fe2aa9ff4f",
+      "bytes": 626928
+    },
+    {
+      "id": "apple-macos/Supplemental/Tahoma.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "359413e76969fc8a03e0acf91b355a98bb13c42472614e54bff5c8e4f4817fbb",
+      "bytes": 681120
+    },
+    {
+      "id": "apple-macos/Supplemental/Tamil MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c38572e975c09e28081238269974bd16d3faf03066dd084a4535edfcdbcad754",
+      "bytes": 184148
+    },
+    {
+      "id": "apple-macos/Supplemental/Tamil Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "3dcda2e44f35b5c3a1462efcefbec7a1b5882b6cf72bf3b7233f40182f17ef79",
+      "bytes": 349356
+    },
+    {
+      "id": "apple-macos/Supplemental/Telugu MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "95b98bd15ef26e105e8aaa963312ca95f2f413c61c900cc38d56be75b9702a48",
+      "bytes": 330484
+    },
+    {
+      "id": "apple-macos/Supplemental/Telugu Sangam MN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "94452bcfe7b1918ec86c55d5708f64e05758d546f75f08577855dc0bd3731090",
+      "bytes": 303008
+    },
+    {
+      "id": "apple-macos/Supplemental/Thonburi.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e49ae98313bafc06a65c6d063b788d73f2894b824aea3121b131098fb4311cde",
+      "bytes": 1503124
+    },
+    {
+      "id": "apple-macos/Supplemental/Times New Roman Bold Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "906157e8294fdf168d83002eaabde01c2d30fc3f44977be89e33fa22f262002a",
+      "bytes": 620008
+    },
+    {
+      "id": "apple-macos/Supplemental/Times New Roman Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "50f5b1f27b7d34621090e437e8b1dd4510a22d2823fc876b3286bed327b64bbb",
+      "bytes": 832472
+    },
+    {
+      "id": "apple-macos/Supplemental/Times New Roman Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7bb99c3a67697fbce15ab66d806d9a2151432ce1dab2eaba4156e1251da486c0",
+      "bytes": 660268
+    },
+    {
+      "id": "apple-macos/Supplemental/Times New Roman.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f3b4ffff71c2a0c7227d37497683b2498fb2d0a4e8beae26f022e3ccfcaabfa3",
+      "bytes": 824920
+    },
+    {
+      "id": "apple-macos/Supplemental/Trattatello.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "88fb206a0968c81eb558b5aa3db525888b41bc184440253c157959ce1687c230",
+      "bytes": 928192
+    },
+    {
+      "id": "apple-macos/Supplemental/Trebuchet MS Bold Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "7ea9e6c68ffd1ac74639277fece1b4258a2e51aa8d54d1cae4688b6f39953385",
+      "bytes": 137008
+    },
+    {
+      "id": "apple-macos/Supplemental/Trebuchet MS Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c7df0daa11665420461614fc22682c687852b2e1cf5c6ff9188096f5d2a8d0b2",
+      "bytes": 129360
+    },
+    {
+      "id": "apple-macos/Supplemental/Trebuchet MS Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "15012b4dfe5470d0f8b75d98b38c461cf81b295485061e1382dc30030c00f2cd",
+      "bytes": 144820
+    },
+    {
+      "id": "apple-macos/Supplemental/Trebuchet MS.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ff1d49fde63aabd7f4fc7cd0a80ac7cdb1b9540058988fcbb64d7c23639a7386",
+      "bytes": 138848
+    },
+    {
+      "id": "apple-macos/Supplemental/Verdana Bold Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "252ef50efa09218d77d83311b531c14d7c0d45230e79389bd3db78448bc942f4",
+      "bytes": 173132
+    },
+    {
+      "id": "apple-macos/Supplemental/Verdana Bold.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "480f66b66430bdfa6e9a2199e4bf8f79d915221e60d58e7a32b4ff50645de2e0",
+      "bytes": 153260
+    },
+    {
+      "id": "apple-macos/Supplemental/Verdana Italic.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "a1149e84da9e5c0a9b4cad68b62542b8503cb16ed8d1d7efd2640b36ce202b44",
+      "bytes": 174612
+    },
+    {
+      "id": "apple-macos/Supplemental/Verdana.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "0da8c12f3e15d95585434d2cf294b3113a3e3fc84bf9ba9d64f2ef834ef4bd98",
+      "bytes": 186188
+    },
+    {
+      "id": "apple-macos/Supplemental/Waseem.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e6fa573217f48dc7398d4e055c70437e2b607769194c891a49884f688bfefdf6",
+      "bytes": 367284
+    },
+    {
+      "id": "apple-macos/Supplemental/Webdings.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "876fd4b39d4049cc7d037e4181e2a3291652845d7f4ce85d11885156f2b3407a",
+      "bytes": 124308
+    },
+    {
+      "id": "apple-macos/Supplemental/Wingdings 2.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "6fce8b535724253e294c88f272613ad4b796c4181bae18b3e49775be63d02dcd",
+      "bytes": 68768
+    },
+    {
+      "id": "apple-macos/Supplemental/Wingdings 3.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "04d2acd5591632909c5e0c3d07309b8d8c01db8ac985d4cab3ef566dabca109a",
+      "bytes": 38308
+    },
+    {
+      "id": "apple-macos/Supplemental/Wingdings.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "709d5848799239f0c51c0544c471c8d02bcbf9f2bcdc49702ebca1691a4c760e",
+      "bytes": 86384
+    },
+    {
+      "id": "apple-macos/Supplemental/Zapfino.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "152963ee2bc0628d70888022e975d44e6f8806f662e10f21d14b9acb448b355c",
+      "bytes": 399180
+    },
+    {
+      "id": "apple-macos/Symbol.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "447a0a83656747b74fe0193f9e34643e68feedb8566a6a1ca79afc2b8ab81673",
+      "bytes": 78196
+    },
+    {
+      "id": "apple-macos/ThonburiUI.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "666d9ad3617e92c659c95d95e74f740115f1b4c3c1ad1493bacf127dd278a478",
+      "bytes": 77008
+    },
+    {
+      "id": "apple-macos/Times.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "79d8f1b02824796dda7234574826455c6cc62e898b2728c834859baad3332727",
+      "bytes": 899600
+    },
+    {
+      "id": "apple-macos/ZapfDingbats.ttf",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "8876f028c3844d3a3fdc08960cc66d9306fcfa7f867e63d2d3c3dcfde44e9934",
+      "bytes": 154344
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u4e38\u30b3\u3099 ProN W4.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "9949bc165c11b85686e9d6c1cb754f24b64ced4835bf1fa28d291a5ba6a89de4",
+      "bytes": 9711308
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u660e\u671d ProN.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "366347c654f84acc43692e922d8d33d91949e750b8d383155bd07728b2bcbbfa",
+      "bytes": 19394720
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W0.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "e431eb11dfb27a7fa9267c4e974b01f1a1eba449c77b35b50577c5e768d1ccf9",
+      "bytes": 3567260
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W1.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "c73451ba99da57e9d5c6e5b97032b78b4e71d9afb346221e31a6dcca8150a9d1",
+      "bytes": 7270616
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W2.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "f1ffcac07f76d1335d7171d39b8c52021603a1cccee8ce7d96f895fd85d80adb",
+      "bytes": 7253864
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W3.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "ff92033a300f55aff2f45f57479a560af2c5467973b425d3f724f870af07f83e",
+      "bytes": 7848412
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W4.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "cf8cf2c882e1e344ac2e6207fe172657a30dc2c6e1ee65a9e29a7b582c4d4154",
+      "bytes": 7242460
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W5.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "b63a4917c394c38514fe82eb40f5d208e0eaeb9ad753d0aeeba919358b509ef0",
+      "bytes": 7242924
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W6.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "495faf728470c0111c15265fd5844293fb0bef4240371b79a888371a4ae38c3b",
+      "bytes": 7950428
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W7.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "df10c80c9a6fd819c939a41a3643b016ed857b526a5e7a5bdb1631f0914ae9cb",
+      "bytes": 3603380
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W8.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "84d1c109700138505318704927cba8f2f877209fe800765391eed46b736714da",
+      "bytes": 3740272
+    },
+    {
+      "id": "apple-macos/\u30d2\u30e9\u30ad\u3099\u30ce\u89d2\u30b3\u3099\u30b7\u30c3\u30af W9.ttc",
+      "url": "https://support.apple.com/en-us/122869",
+      "sha256": "45c3b3db4c5e2a75a899d2914a634c51271f2698f89dd0c89ae93c586d722c55",
+      "bytes": 3465048
+    },
+    {
+      "id": "TypdexJigmoU18",
+      "url": "https://github.com/kamichikoichi/jigmo/tree/a6893b2278e39747fc3476465f7fcacf0126bca8",
+      "sha256": "f0a36c643f46feb4e6d4055a68cfa264e6a52811f02303b8c1d8eaab3a424b36",
+      "bytes": 30049236
+    },
+    {
+      "id": "TypdexJigmo2U18",
+      "url": "https://github.com/kamichikoichi/jigmo/tree/a6893b2278e39747fc3476465f7fcacf0126bca8",
+      "sha256": "376059216838ea0c20079c59b5bfa0c198574955a543bffc75c582f9cde49313",
+      "bytes": 35565996
+    },
+    {
+      "id": "TypdexJigmo3U18",
+      "url": "https://github.com/kamichikoichi/jigmo/tree/a6893b2278e39747fc3476465f7fcacf0126bca8",
+      "sha256": "54635f148e57963a2cdc044b6a802007192953d1b745256ccbbf3bec3cb13987",
+      "bytes": 7483496
+    }
+  ]
+}

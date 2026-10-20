@@ -1,0 +1,193 @@
+{
+  "unicode_version": "18.0.0",
+  "survey_date": "2026-10-20",
+  "blocks": 353,
+  "font_files": 658,
+  "font_faces": 1075,
+  "projects": 15,
+  "block_status": {
+    "complete": 339,
+    "not-applicable": 10,
+    "partial": 2,
+    "uncovered": 2
+  },
+  "target_codepoints": 172369,
+  "covered_codepoints": 170026,
+  "missing_codepoints": 2343,
+  "foss_covered_codepoints": 170026,
+  "non_foss_covered_codepoints": 68144,
+  "non_foss_only_codepoints": 0,
+  "missing_foss_codepoints": 2343,
+  "foss_block_status": {
+    "complete": 339,
+    "not-applicable": 10,
+    "partial": 2,
+    "uncovered": 2
+  },
+  "project_summary": {
+    "noto": {
+      "font_files": 224,
+      "font_faces": 224,
+      "covered_codepoints": 36522,
+      "block_status": {
+        "complete": 235,
+        "not-applicable": 10,
+        "partial": 56,
+        "uncovered": 52
+      }
+    },
+    "noto-cjk": {
+      "font_files": 10,
+      "font_faces": 10,
+      "covered_codepoints": 44831,
+      "block_status": {
+        "complete": 25,
+        "not-applicable": 10,
+        "partial": 40,
+        "uncovered": 278
+      }
+    },
+    "noto-emoji": {
+      "font_files": 1,
+      "font_faces": 1,
+      "covered_codepoints": 1449,
+      "block_status": {
+        "complete": 2,
+        "not-applicable": 10,
+        "partial": 23,
+        "uncovered": 318
+      }
+    },
+    "unifont": {
+      "font_files": 2,
+      "font_faces": 2,
+      "covered_codepoints": 78211,
+      "block_status": {
+        "complete": 319,
+        "not-applicable": 10,
+        "partial": 12,
+        "uncovered": 12
+      }
+    },
+    "dejavu": {
+      "font_files": 22,
+      "font_faces": 22,
+      "covered_codepoints": 6945,
+      "block_status": {
+        "complete": 25,
+        "not-applicable": 10,
+        "partial": 45,
+        "uncovered": 273
+      }
+    },
+    "freefont": {
+      "font_files": 12,
+      "font_faces": 12,
+      "covered_codepoints": 9885,
+      "block_status": {
+        "complete": 48,
+        "not-applicable": 10,
+        "partial": 43,
+        "uncovered": 252
+      }
+    },
+    "jigmo": {
+      "font_files": 3,
+      "font_faces": 3,
+      "covered_codepoints": 116342,
+      "block_status": {
+        "complete": 32,
+        "not-applicable": 10,
+        "partial": 12,
+        "uncovered": 299
+      }
+    },
+    "babelstone-han": {
+      "font_files": 1,
+      "font_faces": 1,
+      "covered_codepoints": 64384,
+      "block_status": {
+        "complete": 31,
+        "not-applicable": 10,
+        "partial": 47,
+        "uncovered": 265
+      }
+    },
+    "egyptology": {
+      "font_files": 1,
+      "font_faces": 1,
+      "covered_codepoints": 2924,
+      "block_status": {
+        "not-applicable": 10,
+        "partial": 1,
+        "uncovered": 342
+      }
+    },
+    "seal-sans": {
+      "font_files": 1,
+      "font_faces": 1,
+      "covered_codepoints": 11337,
+      "block_status": {
+        "complete": 1,
+        "not-applicable": 10,
+        "partial": 3,
+        "uncovered": 339
+      }
+    },
+    "charis": {
+      "font_files": 8,
+      "font_faces": 8,
+      "covered_codepoints": 2393,
+      "block_status": {
+        "complete": 13,
+        "not-applicable": 10,
+        "partial": 37,
+        "uncovered": 293
+      }
+    },
+    "fairfax-hd": {
+      "font_files": 1,
+      "font_faces": 1,
+      "covered_codepoints": 9153,
+      "block_status": {
+        "complete": 76,
+        "not-applicable": 10,
+        "partial": 15,
+        "uncovered": 252
+      }
+    },
+    "tangut-yinchuan": {
+      "font_files": 1,
+      "font_faces": 1,
+      "covered_codepoints": 7737,
+      "block_status": {
+        "complete": 4,
+        "not-applicable": 10,
+        "partial": 34,
+        "uncovered": 305
+      }
+    },
+    "apple-macos": {
+      "font_files": 368,
+      "font_faces": 785,
+      "covered_codepoints": 71863,
+      "block_status": {
+        "complete": 191,
+        "not-applicable": 10,
+        "partial": 67,
+        "uncovered": 85
+      }
+    },
+    "typdex-jigmo-u18": {
+      "font_files": 3,
+      "font_faces": 3,
+      "covered_codepoints": 116526,
+      "block_status": {
+        "complete": 36,
+        "not-applicable": 10,
+        "partial": 13,
+        "uncovered": 294
+      }
+    }
+  }
+}

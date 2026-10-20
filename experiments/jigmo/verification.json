@@ -1,0 +1,31 @@
+{
+  "checks": [
+    {
+      "font": "TypdexJigmoU18-Regular.ttf",
+      "baseline_glyphs_unchanged": 50848,
+      "baseline_scalars_preserved": 50845,
+      "glyph_order_prefix_preserved": true,
+      "variation_sequences_preserved": 26958,
+      "gsub_preserved": true,
+      "sha256_verified": true
+    },
+    {
+      "font": "TypdexJigmo2U18-Regular.ttf",
+      "baseline_glyphs_unchanged": 63050,
+      "baseline_scalars_preserved": 63047,
+      "glyph_order_prefix_preserved": true,
+      "variation_sequences_preserved": 2673,
+      "gsub_preserved": true,
+      "sha256_verified": true
+    },
+    {
+      "font": "TypdexJigmo3U18-Regular.ttf",
+      "baseline_glyphs_unchanged": 13532,
+      "baseline_scalars_preserved": 13529,
+      "glyph_order_prefix_preserved": true,
+      "variation_sequences_preserved": 4,
+      "gsub_preserved": true,
+      "sha256_verified": true
+    }
+  ]
+}

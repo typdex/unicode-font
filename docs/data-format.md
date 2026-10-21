@@ -75,6 +75,9 @@ column per project. A zero-target row is not applicable regardless of its zeros.
 `commercial_use`, `commercial_redistribution`, `modification`, license evidence
 and the Unicode evaluation baseline. `blocks.csv` uses semicolons to separate
 project IDs and comma-separated `U+` ranges inside properly quoted CSV fields.
+The block Markdown and CSV reports omit the repeated evaluation-version column;
+the baseline remains in the Markdown header and JSON metadata. Character-age
+columns remain in both block reports.
 
 `reports/summary.json` duplicates the summary from `blocks.json`. Its per-project
 counts are unions within each project, and its global counts are unions across

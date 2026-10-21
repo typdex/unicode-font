@@ -195,12 +195,12 @@ def outputs(sources, lock, evidence, rows):
     from io import StringIO
     csv_out = StringIO(newline='')
     writer = csv.writer(csv_out, lineterminator='\n')
-    writer.writerow(['block', 'unicode_version', 'first_character_unicode_version',
+    writer.writerow(['block', 'first_character_unicode_version',
                      'last_character_unicode_version', 'start', 'end', 'status', 'assigned', 'targets', 'covered', 'missing',
                      'foss_covered', 'non_foss_covered', 'foss_status',
                      'projects', 'missing_ranges'])
     for r in rows:
-        writer.writerow([r['block'], r['unicode_version'], r['first_character_unicode_version'],
+        writer.writerow([r['block'], r['first_character_unicode_version'],
                          r['last_character_unicode_version'], f"U+{r['start']:04X}", f"U+{r['end']:04X}", r['status'],
                          r['assigned_count'], r['target_count'], r['covered_count'], r['missing_count'],
                          r['foss_covered_count'], r['non_foss_covered_count'], r['foss_status'],
@@ -243,12 +243,12 @@ def outputs(sources, lock, evidence, rows):
              'Font names below link to the pinned artifact (or its upstream archive). '
              'The top five distinct families are shown; [blocks.json](../data/blocks.json) lists every matching font. '
              'A complete union may require multiple fonts.', '',
-             '“Unicode” is the evaluation baseline; “Character versions” shows the earliest and latest '
+             'The Unicode evaluation baseline is given above. “Character versions” shows the earliest and latest '
              'character ages within a block, not a claim that a font implements an entire Unicode release.', '',
              'FOSS and non-FOSS counts are separate unions and can overlap. '
              'See [font license and commercial-use columns](fonts.csv) and [project license notes](licenses.md).', '',
-             '| Block | Unicode | Character versions | Range | Status | Mapped / target | FOSS mapped | Non-FOSS mapped | Font candidates (mapped count) |',
-             '| --- | --- | --- | --- | --- | ---: | ---: | ---: | --- |']
+             '| Block | Character versions | Range | Status | Mapped / target | FOSS mapped | Non-FOSS mapped | Font candidates (mapped count) |',
+             '| --- | --- | --- | --- | ---: | ---: | ---: | --- |']
     source_map = {s['id']: s for s in sources['inputs']}
     font_map = {f['id']: f for f in evidence['fonts']}
     for r in rows:
@@ -263,7 +263,7 @@ def outputs(sources, lock, evidence, rows):
             if len(candidates) == 5:
                 break
         versions = r['first_character_unicode_version'] + '–' + r['last_character_unicode_version']
-        lines.append(f"| {r['block']} | {r['unicode_version']} | {versions} | U+{r['start']:04X}–U+{r['end']:04X} | {r['status']} | "
+        lines.append(f"| {r['block']} | {versions} | U+{r['start']:04X}–U+{r['end']:04X} | {r['status']} | "
                      f"{r['covered_count']} / {r['target_count']} | {r['foss_covered_count']} | "
                      f"{r['non_foss_covered_count']} | " + ('; '.join(candidates) or '—') + ' |')
     files['reports/blocks.md'] = '\n'.join(lines) + '\n'

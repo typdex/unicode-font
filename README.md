@@ -49,8 +49,8 @@ font totals to obtain the union.
 
 ## Unicode versions and licenses
 
-The reports include a **Unicode evaluation-version column**. Character-level
-gap ranges also include **the Unicode version in which each character was
+The block report states the **Unicode evaluation version** once in its header.
+Character-level gap ranges also include **the Unicode version in which each character was
 introduced**, taken from `DerivedAge.txt`. Block rows give the earliest/latest
 character ages within their bounds. A font's embedded release version is a
 separate field; none of these columns claims that a font implements an entire
